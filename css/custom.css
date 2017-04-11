@@ -1,0 +1,59 @@
+body {
+padding-top: 60px;
+font-family: "lato",sans-serif;
+margin-left: 30px;
+}
+
+.headings {
+font-family: "nimbus-sans", sans-serif;
+font-weight: bold;
+}
+
+body a {
+text-decoration:  none; 	border-bottom: 1px dotted; color:black;
+}
+
+body a:hover{
+text-decoration:  none; 	border-bottom: 1px dotted; color:black; background-color:#db9ebd;
+}
+
+#projectname    {font-style:bold;}
+
+.dotbar { border-top: 1px dotted; margin-top:30px}
+
+
+#ital {
+font-style:italic;
+}
+
+#bolder {
+font-weight: bold;
+}
+
+#more_space {
+ line-height: 160%;
+}
+
+#med {
+font-weight: 700;
+}
+
+.nav a{
+font-family: "nimbus-sans", sans-serif;
+font-weight: bold;
+font-size: 110%;
+text-decoration:  none; 	border-bottom: 0px;
+}
+
+.nav a:hover{
+font-family: "nimbus-sans", sans-serif;
+text-decoration:  none; 	border-bottom: 0px;
+}
+
+a.anchor{
+display: block; 
+position: relative; 
+top: -70px; 
+visibility: hidden;
+}
+
