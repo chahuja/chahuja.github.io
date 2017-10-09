@@ -1,2 +1,0 @@
-# chahuja.github.io
-webpage
