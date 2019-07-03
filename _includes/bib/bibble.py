@@ -138,7 +138,7 @@ def main(bibfile, template):
     # Render the template.
     bib_sorted = sorted(db.entries.values(), key=_sortkey, reverse=True)
     out = tmpl.render(entries=bib_sorted)
-    print out
+    print(out)
 
 if __name__ == '__main__':
     main(*sys.argv[1:])
