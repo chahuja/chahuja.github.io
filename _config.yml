@@ -23,7 +23,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://chahuja.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 google_scholar: https://scholar.google.com/citations?hl=en&user=CX8zqPoAAAAJ
-github_username:  chahuja
+github_username: chahuja
+twitter_username: chahuja
 google_analytics: UA-59835835-1
 
 # Build settings
