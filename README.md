@@ -1,4 +1,2 @@
-To compile with google analytics code
-```sh
-JEKYLL_ENV=production jekyll build
-```
+### Personal website
+uses [https://github.com/bamos/cv](https://github.com/bamos/cv) to generate the contents of this webpage

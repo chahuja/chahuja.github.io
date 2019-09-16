@@ -1,58 +1,65 @@
-# Welcome to Jekyll!
+# ----------------------------------------------------------------------------
+# Customize Options: Must Change
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# Title:
 title: Chaitanya Ahuja
-email: mail@chahuja.com
-address: >-
-  Gates Hillman Center, 5719 <br>
-  Carnegie Mellon University
-description: .
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://chahuja.com" # the base hostname & protocol for your site, e.g. http://example.com
+featuredImage: pics/me.jpg
 
-google_scholar: https://scholar.google.com/citations?hl=en&user=CX8zqPoAAAAJ
-github_username: chahuja
-twitter_username: chahuja
-google_analytics: UA-59835835-1
+# Where the page will be deployed.
+# If it's https://foo.com/bar, just write "https://foo.com"
+url: "http://chahuja.com"
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-timezone: America/New_York
+# If you're deployging to a subdirectory (https://foo.com/bar/)
+# Then write "/bar/". Otherwise, remove this line.
+baseurl: ""
 
-# Defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
+# Twitter IDs
+twitter:
+  username: "chahuja"
+author:
+  twitter: "Chaitanya Ahuja"
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
+# Set default og:image
+# From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
+
+# ----------------------------------------------------------------------------
+# Customize Options: Optional
+#
+# See: https://material.io/guidelines/style/color.html
+# Use color-name-value, like pink-200 or deep-purple-100
+brand_color: orange-50"
+
+# How article URLs are structured.
+# See: https://jekyllrb.com/docs/permalinks/
+permalink: posts/:title/
+
+# "UA-NNNNNNNN-N"
+google_analytics: ""
+
+# Language. For example, if you write in Japanese, use "ja"
+lang: "en"
+
+# How many posts are visible on the home page without clicking "View More"
+num_posts_visible_initially: 5
+
+# Date format: See http://strftime.net/
+date_format: "%b %-d, %Y"
+# ----------------------------------------------------------------------------
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - bibble/
-  - README.md
+  - mix-manifest.json
+  - webpack.mix.js
+  - yarn.lock
+  - package.json
+  - hot
+  - LICENSE.txt
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-readme-index
