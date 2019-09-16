@@ -165,5 +165,8 @@
 
       return t;
     }(document, "script", "twitter-wjs"));</script>
+    {% if jekyll.environment == 'production' %}
+       {% include analytics.html google_analytics=site.google_analytics %}
+    {% endif %}
   </body>
 </html>
