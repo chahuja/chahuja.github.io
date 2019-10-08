@@ -5,7 +5,7 @@ I am a PhD student at the Language Technologies Institute at <b>Carnegie Mellon 
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>August 2019</td>
-  <td>Paper on Visual Pose Forecasting for Personalized Avatar during Dyadic Conversations accepted at ICMI'19 <a href='http://chahuja.com/trontr'>[webpage]</a></td>
+  <td>Paper on Visual Pose Forecasting for Personalized Avatar during Dyadic Conversations accepted at ICMI'19 <a href='https://arxiv.org/pdf/1910.02181.pdf'>[pdf]</a><a href='http://chahuja.com/trontr'>[webpage]</a></td>
 </tr>
 <tr>
   <td class='col-md-3'>August 2019</td>
