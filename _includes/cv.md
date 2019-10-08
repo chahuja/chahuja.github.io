@@ -39,7 +39,7 @@ I am a PhD student at the Language Technologies Institute at <b>Carnegie Mellon 
 <table class="table table-hover">
 
 <tr>
-<td class="col-md-3"><img src="pics/publications/ahuja2019to.png"/></td>
+<td class="col-md-3"><a href='https://arxiv.org/pdf/1910.02181.pdf' target='_blank'><img src="pics/publications/ahuja2019to.png"/></a> </td>
 <td>
     <strong>To React or not to React: End-to-End Visual Pose Forecasting for Personalized Avatar during Dyadic Conversations</strong><br>
     <strong>C. Ahuja</strong>, S. Ma, L. Morency, and Y. Sheikh<br>
@@ -47,8 +47,12 @@ I am a PhD student at the Language Technologies Institute at <b>Carnegie Mellon 
     
     [1] 
 [<a href='javascript: none'
-    onclick='$("#abs_ahuja2019to").toggle()'>abs</a>] [<a href='http://chahuja.com/trontr' target='_blank'>webpage</a>] <br>
+    onclick='$("#abs_ahuja2019to").toggle()'>abs</a>] [<a href='https://arxiv.org/pdf/1910.02181.pdf' target='_blank'>pdf</a>]  [<a href='http://chahuja.com/trontr' target='_blank'>webpage</a>] <br>
     
+<div id="abs_ahuja2019to" style="text-align: justify; display: none" markdown="1">
+Non verbal behaviours such as gestures, facial expressions, body posture, and para-linguistic cues have been shown to complement or clarify verbal messages. Hence to improve telepresence, in form of an avatar, it is important to model these behaviours, especially in dyadic interactions. Creating such personalized avatars not only requires to model intrapersonal dynamics between a avatar's speech and their body pose, but it also needs to model interpersonal dynamics with the interlocutor present in the conversation. In this paper, we introduce a neural architecture named Dyadic Residual-Attention Model (DRAM), which integrates intrapersonal (monadic) and interpersonal (dyadic) dynamics using selective attention to generate sequences of body pose conditioned on audio and body pose of the interlocutor and audio of the human operating the avatar. We evaluate our proposed model on dyadic conversational data consisting of pose and audio of both participants, confirming the importance of adaptive attention between monadic and dyadic dynamics when predicting avatar pose. We also conduct a user study to analyze judgments of human observers. Our results confirm that the generated body pose is more natural, models intrapersonal dynamics and interpersonal dynamics better than non-adaptive monadic/dyadic models.
+</div>
+
 </td>
 </tr>
 
