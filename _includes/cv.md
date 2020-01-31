@@ -30,6 +30,26 @@ I am a PhD student at the Language Technologies Institute at <b>Carnegie Mellon 
 </table>
 
 
+## <i class="fa fa-chevron-right"></i> Book Chapters
+
+<table class="table table-hover">
+
+<tr>
+<td class="col-md-3"><img src="pics/publications/baltruvsaitis2018challenges.png"/></td>
+<td>
+    <strong>Challenges and applications in multimodal machine learning</strong><br>
+    T. Baltrusaitis, <strong>C. Ahuja</strong>, and L. Morency<br>
+    The Handbook of Multimodal-Multisensor Interfaces 2018<br>
+    
+    [1]<br>
+    
+</td>
+</tr>
+
+
+</table>
+
+
 ## <i class="fa fa-chevron-right"></i> Selected Publications
 
 <a href="https://scholar.google.com/citations?user=CX8zqPoAAAAJ&hl" class="btn btn-primary" style="padding: 0.3em;">
