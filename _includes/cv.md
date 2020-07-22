@@ -4,6 +4,10 @@ I am a PhD student at the Language Technologies Institute at <b>Carnegie Mellon 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>July 2019</td>
+  <td>Paper on Style Transfer for Co-Speech Gesture Animation accepted at ECCV'20</td>
+</tr>
+<tr>
   <td class='col-md-3'>August 2019</td>
   <td>Paper on Visual Pose Forecasting for Personalized Avatar during Dyadic Conversations accepted at ICMI'19 <a href='https://arxiv.org/pdf/1910.02181.pdf'>[pdf]</a><a href='http://chahuja.com/trontr'>[webpage]</a></td>
 </tr>
@@ -59,13 +63,32 @@ I am a PhD student at the Language Technologies Institute at <b>Carnegie Mellon 
 <table class="table table-hover">
 
 <tr>
+<td class="col-md-3"><img src="pics/publications/ahuja2020style.png"/></td>
+<td>
+    <strong>Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional Mixture Approach</strong><br>
+    <strong>C. Ahuja</strong>, D. Lee, Y. Nakano, and L. Morency<br>
+    ECCV 2020<br>
+    
+    [1] 
+[<a href='javascript: none'
+    onclick='$("#abs_ahuja2020style").toggle()'>abs</a>] [<a href='http://chahuja.com/mix-stage' target='_blank'>webpage</a>] <br>
+    
+<div id="abs_ahuja2020style" style="text-align: justify; display: none" markdown="1">
+How can we teach robots or virtual assistants to gesture naturally? Can we go further and adapt the gesturing style to follow a specific speaker? Gestures that are naturally timed with corresponding speech during human communication are called co-speech gestures. A key challenge, called gesture style transfer, is to learn a model that generates these gestures for a speaking agent 'A' in the gesturing style of a target speaker 'B'. A secondary goal is to simultaneously learn to generate co-speech gestures for multiple speakers while remembering what is unique about each speaker. We call this challenge style preservation. In this paper, we propose a new model, named Mix-StAGE, which trains a single model for multiple speakers while learning unique style embeddings for each speaker's gestures in an end-to-end manner. A novelty of Mix-StAGE is to learn a mixture of generative models which allows for conditioning on the unique gesture style of each speaker. As Mix-StAGE disentangles style and content of gestures, gesturing styles for the same input speech can be altered by simply switching the style embeddings. Mix-StAGE also allows for style preservation when learning simultaneously from multiple speakers. We also introduce a new dataset, Pose-Audio-Transcript-Style (PATS), designed to study gesture generation and style transfer. Our proposed Mix-StAGE model significantly outperforms the previous state-of-the-art approach for gesture generation and provides a path towards performing gesture style transfer across multiple speakers. Link to code, data, and videos: http://chahuja.com/mix-stage
+</div>
+
+</td>
+</tr>
+
+
+<tr>
 <td class="col-md-3"><a href='https://arxiv.org/pdf/1910.02181.pdf' target='_blank'><img src="pics/publications/ahuja2019to.png"/></a> </td>
 <td>
     <strong>To React or not to React: End-to-End Visual Pose Forecasting for Personalized Avatar during Dyadic Conversations</strong><br>
     <strong>C. Ahuja</strong>, S. Ma, L. Morency, and Y. Sheikh<br>
     ICMI 2019<br>
     
-    [1] 
+    [2] 
 [<a href='javascript: none'
     onclick='$("#abs_ahuja2019to").toggle()'>abs</a>] [<a href='https://arxiv.org/pdf/1910.02181.pdf' target='_blank'>pdf</a>]  [<a href='http://chahuja.com/trontr' target='_blank'>webpage</a>] <br>
     
@@ -84,7 +107,7 @@ Non verbal behaviours such as gestures, facial expressions, body posture, and pa
     <strong>C. Ahuja</strong> and L. Morency<br>
     3DV 2019<br>
     
-    [2] 
+    [3] 
 [<a href='javascript: none'
     onclick='$("#abs_ahuja2019language").toggle()'>abs</a>] [<a href='https://arxiv.org/pdf/1907.01108.pdf' target='_blank'>pdf</a>]  [<a href='https://github.com/chahuja/language2pose' target='_blank'>code</a>]  [<a href='http://chahuja.com/language2pose' target='_blank'>webpage</a>] <br>
     
@@ -103,7 +126,7 @@ Generating animations from natural language sentences finds its applications in 
     <strong>C. Ahuja</strong> and L. Morency<br>
     AAAI 2018<br>
     
-    [3] 
+    [4] 
 [<a href='javascript: none'
     onclick='$("#abs_ahuja2018lattice").toggle()'>abs</a>] [<a href='https://arxiv.org/pdf/1710.02254.pdf' target='_blank'>pdf</a>]  [<a href='https://github.com/chahuja/lru' target='_blank'>code</a>]  [<a href='http://chahuja.com/lru' target='_blank'>webpage</a>] <br>
     
@@ -122,7 +145,7 @@ Recurrent neural networks have shown remarkable success in modeling sequences. H
     T. Baltrusaitis, <strong>C. Ahuja</strong>, and L. Morency<br>
     TPAMI 2017<br>
     
-    [4] 
+    [5] 
 [<a href='javascript: none'
     onclick='$("#abs_baltruvsaitis2017multimodal").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/1705.09406' target='_blank'>pdf</a>] <br>
     
@@ -141,7 +164,7 @@ Recurrent neural networks have shown remarkable success in modeling sequences. H
     <strong>C. Ahuja</strong> and R. Hegde<br>
     ICASSP 2014<br>
     
-    [5] 
+    [6] 
 [<a href='javascript: none'
     onclick='$("#abs_ahuja2014fast").toggle()'>abs</a>] [<a href='files/icassp_chahuja_paper.pdf' target='_blank'>pdf</a>] <br>
     
@@ -160,7 +183,7 @@ Developing individualized head related transfer functions (HRTF) is an essential
     A. Sohni, <strong>C. Ahuja</strong>, and R. Hegde<br>
     HSCMA 2014<br>
     
-    [6] 
+    [7] 
 [<a href='javascript: none'
     onclick='$("#abs_sohni2014extraction").toggle()'>abs</a>] [<a href='files/hscma_chahuja_paper.pdf' target='_blank'>pdf</a>] <br>
     
