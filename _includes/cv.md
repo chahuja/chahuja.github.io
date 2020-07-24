@@ -4,7 +4,7 @@ I am a PhD student at the Language Technologies Institute at <b>Carnegie Mellon 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>July 2019</td>
+  <td class='col-md-3'>July 2020</td>
   <td>Paper on Style Transfer for Co-Speech Gesture Animation accepted at ECCV'20</td>
 </tr>
 <tr>
