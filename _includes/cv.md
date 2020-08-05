@@ -63,7 +63,7 @@ I am a PhD student at the Language Technologies Institute at <b>Carnegie Mellon 
 <table class="table table-hover">
 
 <tr>
-<td class="col-md-3"><img src="pics/publications/ahuja2020style.png"/></td>
+<td class="col-md-3"><a href='https://arxiv.org/abs/2007.12553' target='_blank'><img src="pics/publications/ahuja2020style.png"/></a> </td>
 <td>
     <strong>Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional Mixture Approach</strong><br>
     <strong>C. Ahuja</strong>, D. Lee, Y. Nakano, and L. Morency<br>
@@ -71,7 +71,7 @@ I am a PhD student at the Language Technologies Institute at <b>Carnegie Mellon 
     
     [1] 
 [<a href='javascript: none'
-    onclick='$("#abs_ahuja2020style").toggle()'>abs</a>] [<a href='http://chahuja.com/mix-stage' target='_blank'>webpage</a>] <br>
+    onclick='$("#abs_ahuja2020style").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/2007.12553' target='_blank'>pdf</a>]  [<a href='http://chahuja.com/mix-stage' target='_blank'>webpage</a>] <br>
     
 <div id="abs_ahuja2020style" style="text-align: justify; display: none" markdown="1">
 How can we teach robots or virtual assistants to gesture naturally? Can we go further and adapt the gesturing style to follow a specific speaker? Gestures that are naturally timed with corresponding speech during human communication are called co-speech gestures. A key challenge, called gesture style transfer, is to learn a model that generates these gestures for a speaking agent 'A' in the gesturing style of a target speaker 'B'. A secondary goal is to simultaneously learn to generate co-speech gestures for multiple speakers while remembering what is unique about each speaker. We call this challenge style preservation. In this paper, we propose a new model, named Mix-StAGE, which trains a single model for multiple speakers while learning unique style embeddings for each speaker's gestures in an end-to-end manner. A novelty of Mix-StAGE is to learn a mixture of generative models which allows for conditioning on the unique gesture style of each speaker. As Mix-StAGE disentangles style and content of gestures, gesturing styles for the same input speech can be altered by simply switching the style embeddings. Mix-StAGE also allows for style preservation when learning simultaneously from multiple speakers. We also introduce a new dataset, Pose-Audio-Transcript-Style (PATS), designed to study gesture generation and style transfer. Our proposed Mix-StAGE model significantly outperforms the previous state-of-the-art approach for gesture generation and provides a path towards performing gesture style transfer across multiple speakers. Link to code, data, and videos: http://chahuja.com/mix-stage
