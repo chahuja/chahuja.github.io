@@ -4,6 +4,22 @@ I am a PhD student at the Language Technologies Institute at <b>Carnegie Mellon 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>September 2020</td>
+  <td>Paper on Co-Speech Gesture Generation from Language accepted at Findings at EMNLP'20</td>
+</tr>
+<tr>
+  <td class='col-md-3'>September 2020</td>
+  <td>Paper on Impact of Personality on Non-verbal behvaiours accepted at IVA'20</td>
+</tr>
+<tr>
+  <td class='col-md-3'>August 2020</td>
+  <td>PATS (Pose-Audio-Transcripts-Style) Dataset released. Click <a href='http://chahuja.com/pats'>here</a> for the download links.</td>
+</tr>
+<tr>
+  <td class='col-md-3'>August 2020</td>
+  <td>Code for Style Transfer for Co-Speech Gesture Animation released <a href='https://github.com/chahuja/mix-stage'>here</a>.</td>
+</tr>
+<tr>
   <td class='col-md-3'>July 2020</td>
   <td>Paper on Style Transfer for Co-Speech Gesture Animation accepted at ECCV'20</td>
 </tr>
@@ -63,13 +79,51 @@ I am a PhD student at the Language Technologies Institute at <b>Carnegie Mellon 
 <table class="table table-hover">
 
 <tr>
+<td class="col-md-3"><img src="pics/publications/ahuja2020no.png"/></td>
+<td>
+    <strong>No Gestures Left Behind: Learning Relationships between Spoken Language and Freeform Gestures</strong><br>
+    <strong>C. Ahuja</strong>, D. Lee, R. Ishii, and L. Morency<br>
+    EMNLP Findings 2020<br>
+    
+    [1] 
+[<a href='javascript: none'
+    onclick='$("#abs_ahuja2020no").toggle()'>abs</a>]<br>
+    
+<div id="abs_ahuja2020no" style="text-align: justify; display: none" markdown="1">
+We study relationships between spoken language and co-speech gestures in context of two key challenges. First, distributions of text and gestures are inherently skewed making it important to model the long tail. Second, gesture predictions are made at a subword level, making it important to learn relationships between language and audio. We introduce Adversarial Importance Sampled Learning, which combines adversarial learning with importance sampling to strike a balance between precision and coverage. We substantiate the effectiveness of our approach through large-scale quantitative and user studies, which show that our proposed methodology significantly outperforms previous stateof-the-art approaches for gesture generation.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-3"><img src="pics/publications/ishii2020impact.png"/></td>
+<td>
+    <strong>Impact of Personality on Nonverbal Behavior Generation</strong><br>
+    R. Ishii, <strong>C. Ahuja</strong>, Y. Nakano, and L. Morency<br>
+    IVA 2020<br>
+    
+    [2] 
+[<a href='javascript: none'
+    onclick='$("#abs_ishii2020impact").toggle()'>abs</a>]<br>
+    
+<div id="abs_ishii2020impact" style="text-align: justify; display: none" markdown="1">
+To realize natural-looking virtual agents, one key technical challenge is to automatically generate nonverbal behaviors from spoken language. Since nonverbal behavior varies depending on personality, it is important to generate these nonverbal behaviors to match the expected personality of a virtual agent. In this work, we study how personality traits relate to the process of generating individual nonverbal behaviors from the whole body, including the head, eye gaze, arms, and posture. To study this, we first created a dialogue corpus including transcripts, a broad range of labelled nonverbal behaviors, and the Big Five personality scores of participants in dyad interactions. We constructed models that can predict each nonverbal behavior label given as an input language representation from the participants’ spoken sentences. Our experimental results show that personality can help improve the prediction of nonverbal behaviors.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
 <td class="col-md-3"><a href='https://arxiv.org/abs/2007.12553' target='_blank'><img src="pics/publications/ahuja2020style.png"/></a> </td>
 <td>
     <strong>Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional Mixture Approach</strong><br>
     <strong>C. Ahuja</strong>, D. Lee, Y. Nakano, and L. Morency<br>
     ECCV 2020<br>
     
-    [1] 
+    [3] 
 [<a href='javascript: none'
     onclick='$("#abs_ahuja2020style").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/2007.12553' target='_blank'>pdf</a>]  [<a href='http://chahuja.com/mix-stage' target='_blank'>webpage</a>] <br>
     
@@ -88,7 +142,7 @@ How can we teach robots or virtual assistants to gesture naturally? Can we go fu
     <strong>C. Ahuja</strong>, S. Ma, L. Morency, and Y. Sheikh<br>
     ICMI 2019<br>
     
-    [2] 
+    [4] 
 [<a href='javascript: none'
     onclick='$("#abs_ahuja2019to").toggle()'>abs</a>] [<a href='https://arxiv.org/pdf/1910.02181.pdf' target='_blank'>pdf</a>]  [<a href='http://chahuja.com/trontr' target='_blank'>webpage</a>] <br>
     
@@ -107,7 +161,7 @@ Non verbal behaviours such as gestures, facial expressions, body posture, and pa
     <strong>C. Ahuja</strong> and L. Morency<br>
     3DV 2019<br>
     
-    [3] 
+    [5] 
 [<a href='javascript: none'
     onclick='$("#abs_ahuja2019language").toggle()'>abs</a>] [<a href='https://arxiv.org/pdf/1907.01108.pdf' target='_blank'>pdf</a>]  [<a href='https://github.com/chahuja/language2pose' target='_blank'>code</a>]  [<a href='http://chahuja.com/language2pose' target='_blank'>webpage</a>] <br>
     
@@ -126,7 +180,7 @@ Generating animations from natural language sentences finds its applications in 
     <strong>C. Ahuja</strong> and L. Morency<br>
     AAAI 2018<br>
     
-    [4] 
+    [6] 
 [<a href='javascript: none'
     onclick='$("#abs_ahuja2018lattice").toggle()'>abs</a>] [<a href='https://arxiv.org/pdf/1710.02254.pdf' target='_blank'>pdf</a>]  [<a href='https://github.com/chahuja/lru' target='_blank'>code</a>]  [<a href='http://chahuja.com/lru' target='_blank'>webpage</a>] <br>
     
@@ -145,7 +199,7 @@ Recurrent neural networks have shown remarkable success in modeling sequences. H
     T. Baltrusaitis, <strong>C. Ahuja</strong>, and L. Morency<br>
     TPAMI 2017<br>
     
-    [5] 
+    [7] 
 [<a href='javascript: none'
     onclick='$("#abs_baltruvsaitis2017multimodal").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/1705.09406' target='_blank'>pdf</a>] <br>
     
@@ -164,7 +218,7 @@ Recurrent neural networks have shown remarkable success in modeling sequences. H
     <strong>C. Ahuja</strong> and R. Hegde<br>
     ICASSP 2014<br>
     
-    [6] 
+    [8] 
 [<a href='javascript: none'
     onclick='$("#abs_ahuja2014fast").toggle()'>abs</a>] [<a href='files/icassp_chahuja_paper.pdf' target='_blank'>pdf</a>] <br>
     
@@ -183,7 +237,7 @@ Developing individualized head related transfer functions (HRTF) is an essential
     A. Sohni, <strong>C. Ahuja</strong>, and R. Hegde<br>
     HSCMA 2014<br>
     
-    [7] 
+    [9] 
 [<a href='javascript: none'
     onclick='$("#abs_sohni2014extraction").toggle()'>abs</a>] [<a href='files/hscma_chahuja_paper.pdf' target='_blank'>pdf</a>] <br>
     
