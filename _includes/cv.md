@@ -98,7 +98,7 @@ We study relationships between spoken language and co-speech gestures in context
 
 
 <tr>
-<td class="col-md-3"><img src="pics/publications/ishii2020impact.png"/></td>
+<td class="col-md-3"><a href='https://dl.acm.org/doi/10.1145/3383652.3423908' target='_blank'><img src="pics/publications/ishii2020impact.png"/></a> </td>
 <td>
     <strong>Impact of Personality on Nonverbal Behavior Generation</strong><br>
     R. Ishii, <strong>C. Ahuja</strong>, Y. Nakano, and L. Morency<br>
@@ -106,7 +106,7 @@ We study relationships between spoken language and co-speech gestures in context
     
     [2] 
 [<a href='javascript: none'
-    onclick='$("#abs_ishii2020impact").toggle()'>abs</a>]<br>
+    onclick='$("#abs_ishii2020impact").toggle()'>abs</a>] [<a href='https://dl.acm.org/doi/10.1145/3383652.3423908' target='_blank'>pdf</a>] <br>
     
 <div id="abs_ishii2020impact" style="text-align: justify; display: none" markdown="1">
 To realize natural-looking virtual agents, one key technical challenge is to automatically generate nonverbal behaviors from spoken language. Since nonverbal behavior varies depending on personality, it is important to generate these nonverbal behaviors to match the expected personality of a virtual agent. In this work, we study how personality traits relate to the process of generating individual nonverbal behaviors from the whole body, including the head, eye gaze, arms, and posture. To study this, we first created a dialogue corpus including transcripts, a broad range of labelled nonverbal behaviors, and the Big Five personality scores of participants in dyad interactions. We constructed models that can predict each nonverbal behavior label given as an input language representation from the participants’ spoken sentences. Our experimental results show that personality can help improve the prediction of nonverbal behaviors.

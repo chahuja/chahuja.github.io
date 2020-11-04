@@ -14,3 +14,11 @@
   clear: both;
   display: table;
 }
+
+.cv-button {
+    background-color: #4582ec;
+}
+
+.cv-button:hover {
+    background-color: #003cff;
+}
