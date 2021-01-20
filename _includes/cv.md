@@ -1,8 +1,12 @@
-I am a PhD student at the Language Technologies Institute at <b>Carnegie Mellon University</b>. I am advised by [Dr. Louis-Philippe Morency (LP)](https://www.cs.cmu.edu/~morency/) in the Multicomp Lab and we work on anything multimodal. Lately, my research efforts have been directed towards <b>grounding pose forecasting</b> on Speech, and Language. As an undergraduate researcher at <b>Indian Institute of Technology(IIT), Kanpur</b>. I worked with [Dr. Rajesh Hegde](http://home.iitk.ac.in/~rhegde/) on <b>Spatial Audio</b> and <b>Speaker Diarization</b>, and [Dr. Vinay Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) on <b>Video Summarization</b>.
+I am a PhD candidate at the Language Technologies Institute at <b>Carnegie Mellon University</b>. I am advised by [Dr. Louis-Philippe Morency (LP)](https://www.cs.cmu.edu/~morency/) in the Multicomp Lab and we work on anything multimodal. Lately, my research efforts have been directed towards <b>grounding body gestures</b> in Speech, and Language. As an undergraduate researcher at <b>Indian Institute of Technology(IIT), Kanpur</b>, I worked with [Dr. Rajesh Hegde](http://home.iitk.ac.in/~rhegde/) on <b>Spatial Audio</b> and <b>Speaker Diarization</b>, and [Dr. Vinay Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) on <b>Video Summarization</b>.
 
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
+<tr>
+  <td class='col-md-3'>December 2020</td>
+  <td>Succesfully proposed my thesis titled <b>Communication Beyond Words: Grounding Visual Body Motion with Language</b> <a href="https://drive.google.com/open?id=1lrk5J4vJjBirAyZMOK6pbozGkB4DKebO&authuser=cahuja%40andrew.cmu.edu&usp=drive_fs"><button type="button" class="btn btn-primary">pdf</button></a></td>
+</tr>
 <tr>
   <td class='col-md-3'>September 2020</td>
   <td>Paper on Co-Speech Gesture Generation from Language accepted at Findings at EMNLP'20</td>
@@ -79,7 +83,7 @@ I am a PhD student at the Language Technologies Institute at <b>Carnegie Mellon 
 <table class="table table-hover">
 
 <tr>
-<td class="col-md-3"><img src="pics/publications/ahuja2020no.png"/></td>
+<td class="col-md-3"><a href='https://www.aclweb.org/anthology/2020.findings-emnlp.170.pdf' target='_blank'><img src="pics/publications/ahuja2020no.png"/></a> </td>
 <td>
     <strong>No Gestures Left Behind: Learning Relationships between Spoken Language and Freeform Gestures</strong><br>
     <strong>C. Ahuja</strong>, D. Lee, R. Ishii, and L. Morency<br>
@@ -87,7 +91,7 @@ I am a PhD student at the Language Technologies Institute at <b>Carnegie Mellon 
     
     [1] 
 [<a href='javascript: none'
-    onclick='$("#abs_ahuja2020no").toggle()'>abs</a>]<br>
+    onclick='$("#abs_ahuja2020no").toggle()'>abs</a>] [<a href='https://www.aclweb.org/anthology/2020.findings-emnlp.170.pdf' target='_blank'>pdf</a>]  [<a href='https://github.com/chahuja/aisle' target='_blank'>code</a>] <br>
     
 <div id="abs_ahuja2020no" style="text-align: justify; display: none" markdown="1">
 We study relationships between spoken language and co-speech gestures in context of two key challenges. First, distributions of text and gestures are inherently skewed making it important to model the long tail. Second, gesture predictions are made at a subword level, making it important to learn relationships between language and audio. We introduce Adversarial Importance Sampled Learning, which combines adversarial learning with importance sampling to strike a balance between precision and coverage. We substantiate the effectiveness of our approach through large-scale quantitative and user studies, which show that our proposed methodology significantly outperforms previous stateof-the-art approaches for gesture generation.
