@@ -22,3 +22,11 @@
 .cv-button:hover {
     background-color: #003cff;
 }
+
+.measure-wide {
+    max-width: 60em;
+}
+
+.h2 {
+    padding-top: 1em;
+}
