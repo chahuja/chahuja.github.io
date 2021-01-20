@@ -35,8 +35,22 @@
     <link href="/vendor/pygments/default.css" rel="stylesheet">
     <link href="/vendor/css/bamos.css" rel="stylesheet">
     <link href="/vendor/css/sharingbuttons.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+         <script>
+          function change(){
+          if (document.getElementById("more").innerHTML == "Less") {
+          document.getElementById("more").innerHTML = "More";
+          }
+          else {
+          document.getElementById("more").innerHTML = "Less";
+          }
+          }
+          
+       </script>
+
     <title>{{ page.title | default:site.title }}</title>
   </head>
   <body>
