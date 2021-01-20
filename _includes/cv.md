@@ -67,11 +67,11 @@ I am a PhD candidate at the Language Technologies Institute at <b>Carnegie Mello
 <tr>
 <td class="col-md-3"><img src="pics/publications/baltruvsaitis2018challenges.png"/></td>
 <td>
-    <strong>Challenges and applications in multimodal machine learning</strong><br>
+    <strong>1. Challenges and applications in multimodal machine learning</strong><br>
     T. Baltrusaitis, <strong>C. Ahuja</strong>, and L. Morency<br>
     The Handbook of Multimodal-Multisensor Interfaces 2018<br>
     
-    [1]<br>
+    <br>
     
 </td>
 </tr>
@@ -91,11 +91,11 @@ I am a PhD candidate at the Language Technologies Institute at <b>Carnegie Mello
 <tr>
 <td class="col-md-3"><a href='https://www.aclweb.org/anthology/2020.findings-emnlp.170.pdf' target='_blank'><img src="pics/publications/ahuja2020no.png"/></a> </td>
 <td>
-    <strong>No Gestures Left Behind: Learning Relationships between Spoken Language and Freeform Gestures</strong><br>
+    <strong>9. No Gestures Left Behind: Learning Relationships between Spoken Language and Freeform Gestures</strong><br>
     <strong>C. Ahuja</strong>, D. Lee, R. Ishii, and L. Morency<br>
     EMNLP Findings 2020<br>
     
-    [1] 
+     
 <a href='javascript: none'
     onclick='$("#abs_ahuja2020no").toggle()'><button type='button' class='btn btn-dark'>abs</button></a> <a href='https://www.aclweb.org/anthology/2020.findings-emnlp.170.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='https://github.com/chahuja/aisle' target='_blank'><button type='button' class='btn btn-info'>code</button></a> <br>
     
@@ -110,11 +110,11 @@ We study relationships between spoken language and co-speech gestures in context
 <tr>
 <td class="col-md-3"><a href='https://dl.acm.org/doi/10.1145/3383652.3423908' target='_blank'><img src="pics/publications/ishii2020impact.png"/></a> </td>
 <td>
-    <strong>Impact of Personality on Nonverbal Behavior Generation</strong><br>
+    <strong>8. Impact of Personality on Nonverbal Behavior Generation</strong><br>
     R. Ishii, <strong>C. Ahuja</strong>, Y. Nakano, and L. Morency<br>
     IVA 2020<br>
     
-    [2] 
+     
 <a href='javascript: none'
     onclick='$("#abs_ishii2020impact").toggle()'><button type='button' class='btn btn-dark'>abs</button></a> <a href='https://dl.acm.org/doi/10.1145/3383652.3423908' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
     
@@ -129,11 +129,11 @@ To realize natural-looking virtual agents, one key technical challenge is to aut
 <tr>
 <td class="col-md-3"><a href='https://arxiv.org/abs/2007.12553' target='_blank'><img src="pics/publications/ahuja2020style.png"/></a> </td>
 <td>
-    <strong>Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional Mixture Approach</strong><br>
+    <strong>7. Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional Mixture Approach</strong><br>
     <strong>C. Ahuja</strong>, D. Lee, Y. Nakano, and L. Morency<br>
     ECCV 2020<br>
     
-    [3] 
+     
 <a href='javascript: none'
     onclick='$("#abs_ahuja2020style").toggle()'><button type='button' class='btn btn-dark'>abs</button></a> <a href='https://arxiv.org/abs/2007.12553' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='http://chahuja.com/mix-stage' target='_blank'><button type='button' class='btn btn-success'>webpage</button></a> <br>
     
@@ -148,11 +148,11 @@ How can we teach robots or virtual assistants to gesture naturally? Can we go fu
 <tr>
 <td class="col-md-3"><a href='https://arxiv.org/pdf/1910.02181.pdf' target='_blank'><img src="pics/publications/ahuja2019to.png"/></a> </td>
 <td>
-    <strong>To React or not to React: End-to-End Visual Pose Forecasting for Personalized Avatar during Dyadic Conversations</strong><br>
+    <strong>6. To React or not to React: End-to-End Visual Pose Forecasting for Personalized Avatar during Dyadic Conversations</strong><br>
     <strong>C. Ahuja</strong>, S. Ma, L. Morency, and Y. Sheikh<br>
     ICMI 2019<br>
     
-    [4] 
+     
 <a href='javascript: none'
     onclick='$("#abs_ahuja2019to").toggle()'><button type='button' class='btn btn-dark'>abs</button></a> <a href='https://arxiv.org/pdf/1910.02181.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
     
@@ -167,11 +167,11 @@ Non verbal behaviours such as gestures, facial expressions, body posture, and pa
 <tr>
 <td class="col-md-3"><a href='https://arxiv.org/pdf/1907.01108.pdf' target='_blank'><img src="pics/publications/ahuja2019language.png"/></a> </td>
 <td>
-    <strong>Language2Pose: Natural Language Grounded Pose Forecasting</strong><br>
+    <strong>5. Language2Pose: Natural Language Grounded Pose Forecasting</strong><br>
     <strong>C. Ahuja</strong> and L. Morency<br>
     3DV 2019<br>
     
-    [5] 
+     
 <a href='javascript: none'
     onclick='$("#abs_ahuja2019language").toggle()'><button type='button' class='btn btn-dark'>abs</button></a> <a href='https://arxiv.org/pdf/1907.01108.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='https://github.com/chahuja/language2pose' target='_blank'><button type='button' class='btn btn-info'>code</button></a>  <a href='http://chahuja.com/language2pose' target='_blank'><button type='button' class='btn btn-success'>webpage</button></a> <br>
     
@@ -186,11 +186,11 @@ Generating animations from natural language sentences finds its applications in 
 <tr>
 <td class="col-md-3"><a href='https://arxiv.org/pdf/1710.02254.pdf' target='_blank'><img src="pics/publications/ahuja2018lattice.png"/></a> </td>
 <td>
-    <strong>Lattice Recurrent Unit: Improving Convergence and Statistical Efficiency for Sequence Modeling</strong><br>
+    <strong>4. Lattice Recurrent Unit: Improving Convergence and Statistical Efficiency for Sequence Modeling</strong><br>
     <strong>C. Ahuja</strong> and L. Morency<br>
     AAAI 2018<br>
     
-    [6] 
+     
 <a href='javascript: none'
     onclick='$("#abs_ahuja2018lattice").toggle()'><button type='button' class='btn btn-dark'>abs</button></a> <a href='https://arxiv.org/pdf/1710.02254.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='https://github.com/chahuja/lru' target='_blank'><button type='button' class='btn btn-info'>code</button></a>  <a href='http://chahuja.com/lru' target='_blank'><button type='button' class='btn btn-success'>webpage</button></a> <br>
     
@@ -205,11 +205,11 @@ Recurrent neural networks have shown remarkable success in modeling sequences. H
 <tr>
 <td class="col-md-3"><a href='https://arxiv.org/abs/1705.09406' target='_blank'><img src="pics/publications/baltruvsaitis2017multimodal.png"/></a> </td>
 <td>
-    <strong>Multimodal Machine Learning: A Survey and Taxonomy</strong><br>
+    <strong>3. Multimodal Machine Learning: A Survey and Taxonomy</strong><br>
     T. Baltrusaitis, <strong>C. Ahuja</strong>, and L. Morency<br>
     TPAMI 2017<br>
     
-    [7] 
+     
 <a href='javascript: none'
     onclick='$("#abs_baltruvsaitis2017multimodal").toggle()'><button type='button' class='btn btn-dark'>abs</button></a> <a href='https://arxiv.org/abs/1705.09406' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
     
@@ -224,11 +224,11 @@ Recurrent neural networks have shown remarkable success in modeling sequences. H
 <tr>
 <td class="col-md-3"><a href='files/icassp_chahuja_paper.pdf' target='_blank'><img src="pics/publications/ahuja2014fast.png"/></a> </td>
 <td>
-    <strong>Fast modelling of pinna spectral notches from HRTFs using linear prediction residual cepstrum</strong><br>
+    <strong>2. Fast modelling of pinna spectral notches from HRTFs using linear prediction residual cepstrum</strong><br>
     <strong>C. Ahuja</strong> and R. Hegde<br>
     ICASSP 2014<br>
     
-    [8] 
+     
 <a href='javascript: none'
     onclick='$("#abs_ahuja2014fast").toggle()'><button type='button' class='btn btn-dark'>abs</button></a> <a href='files/icassp_chahuja_paper.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
     
@@ -243,11 +243,11 @@ Developing individualized head related transfer functions (HRTF) is an essential
 <tr>
 <td class="col-md-3"><a href='files/hscma_chahuja_paper.pdf' target='_blank'><img src="pics/publications/sohni2014extraction.png"/></a> </td>
 <td>
-    <strong>Extraction of pinna spectral notches in the median plane of a virtual spherical microphone array</strong><br>
+    <strong>1. Extraction of pinna spectral notches in the median plane of a virtual spherical microphone array</strong><br>
     A. Sohni, <strong>C. Ahuja</strong>, and R. Hegde<br>
     HSCMA 2014<br>
     
-    [9] 
+     
 <a href='javascript: none'
     onclick='$("#abs_sohni2014extraction").toggle()'><button type='button' class='btn btn-dark'>abs</button></a> <a href='files/hscma_chahuja_paper.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
     
