@@ -5,31 +5,31 @@ I am a PhD candidate at the Language Technologies Institute at <b>Carnegie Mello
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>December 2020</td>
-  <td>Succesfully proposed my thesis titled <b>Communication Beyond Words: Grounding Visual Body Motion with Language</b> <a href="https://drive.google.com/open?id=1lrk5J4vJjBirAyZMOK6pbozGkB4DKebO&authuser=cahuja%40andrew.cmu.edu&usp=drive_fs"><button type="button" class="btn btn-primary">pdf</button></a></td>
+  <td>Succesfully proposed my thesis titled <b>Communication Beyond Words: Grounding Visual Body Motion with Language</b> <a href="https://drive.google.com/open?id=1lrk5J4vJjBirAyZMOK6pbozGkB4DKebO&authuser=cahuja%40andrew.cmu.edu&usp=drive_fs" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
 </tr>
 <tr>
   <td class='col-md-3'>September 2020</td>
-  <td>Paper on Co-Speech Gesture Generation from Language accepted at Findings at EMNLP'20</td>
+  <td>Paper on Co-Speech Gesture Generation from Language accepted at Findings at EMNLP 2020</td>
 </tr>
 <tr>
   <td class='col-md-3'>September 2020</td>
-  <td>Paper on Impact of Personality on Non-verbal behvaiours accepted at IVA'20</td>
+  <td>Paper on Impact of Personality on Non-verbal behvaiours accepted at IVA 2020</td>
 </tr>
 <tr>
   <td class='col-md-3'>August 2020</td>
-  <td>PATS (Pose-Audio-Transcripts-Style) Dataset released. Click <a href='http://chahuja.com/pats'>here</a> for the download links.</td>
+  <td>PATS (Pose-Audio-Transcripts-Style) Dataset released. <a href="http://chahuja.com/pats" target="_blank"><button type="button" class="btn btn-success">webpage</button></td>
 </tr>
 <tr>
   <td class='col-md-3'>August 2020</td>
-  <td>Code for Style Transfer for Co-Speech Gesture Animation released <a href='https://github.com/chahuja/mix-stage'>here</a>.</td>
+  <td>Code for Style Transfer for Co-Speech Gesture Animation released. <a href="https://github.com/chahuja/mix-stage" target="_blank"><button type="button" class="btn btn-info">code</button></td>
 </tr>
 <tr>
   <td class='col-md-3'>July 2020</td>
-  <td>Paper on Style Transfer for Co-Speech Gesture Animation accepted at ECCV'20</td>
+  <td>Paper on Style Transfer for Co-Speech Gesture Animation accepted at ECCV 2020</td>
 </tr>
 <tr>
   <td class='col-md-3'>August 2019</td>
-  <td>Paper on Visual Pose Forecasting for Personalized Avatar during Dyadic Conversations accepted at ICMI'19 <a href='https://arxiv.org/pdf/1910.02181.pdf'>[pdf]</a><a href='http://chahuja.com/trontr'>[webpage]</a></td>
+  <td>Paper on Visual Pose Forecasting for Personalized Avatar during Dyadic Conversations accepted at ICMI 2019. <a href="https://arxiv.org/pdf/1910.02181.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></td>
 </tr>
 <tr>
   <td class='col-md-3'>August 2019</td>
@@ -37,7 +37,7 @@ I am a PhD candidate at the Language Technologies Institute at <b>Carnegie Mello
 </tr>
 <tr>
   <td class='col-md-3'>July 2019</td>
-  <td>Paper on Natural Language Grounded Pose Forecasting accepted at 3DV'19 <a href='https://arxiv.org/pdf/1907.01108.pdf'>[pdf]</a><a href='http://chahuja.com/language2pose'>[webpage]</a></td>
+  <td>Paper on Natural Language Grounded Pose Forecasting accepted at 3DV 2019 <a href="https://arxiv.org/pdf/1907.01108.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button> <a href="http://chahuja.com/language2pose" target="_blank"><button type="button" class="btn btn-successs">webpage</button></td>
 </tr>
 <tr>
   <td class='col-md-3'>March 2018</td>
@@ -45,11 +45,11 @@ I am a PhD candidate at the Language Technologies Institute at <b>Carnegie Mello
 </tr>
 <tr>
   <td class='col-md-3'>January 2018</td>
-  <td>Paper on Lattice Recurrent Units accepted at AAAI'18 <a href='https://arxiv.org/abs/1710.02254'>[pdf]</a><a href='http://chahuja.com/lru'>[webpage]</a></td>
+  <td>Paper on Lattice Recurrent Units accepted at AAAI 2018 <a href="https://arxiv.org/abs/1710.02254" target="_blank"><button type="button" class="btn btn-primary">pdf</button> <a href="http://chahuja.com/lru" target="_blank"><button type="button" class="btn btn-success">webpage</button></td>
 </tr>
 <tr>
   <td class='col-md-3'>October 2017</td>
-  <td>Our survey on Multimodal Machine Learning is on <a href='https://arxiv.org/pdf/1705.09406.pdf'>arXiv</a></td>
+  <td>Our survey on Multimodal Machine Learning is online <a href="https://arxiv.org/pdf/1705.09406.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></td>
 </tr>
 </table>
 
