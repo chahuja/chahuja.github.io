@@ -23,34 +23,51 @@ I am a PhD candidate at the Language Technologies Institute at <b>Carnegie Mello
   <td class='col-md-3'>August 2020</td>
   <td>Code for Style Transfer for Co-Speech Gesture Animation released. <a href="https://github.com/chahuja/mix-stage" target="_blank"><button type="button" class="btn btn-info">code</button></a></td>
 </tr>
-<tr>
-  <td class='col-md-3'>July 2020</td>
-  <td>Paper on Style Transfer for Co-Speech Gesture Animation accepted at ECCV 2020</td>
-</tr>
-<tr>
-  <td class='col-md-3'>August 2019</td>
-  <td>Paper on Visual Pose Forecasting for Personalized Avatar during Dyadic Conversations accepted at ICMI 2019. <a href="https://arxiv.org/pdf/1910.02181.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
-</tr>
-<tr>
-  <td class='col-md-3'>August 2019</td>
-  <td>Honourable mention in LTI SRS symposium on my talk on Natural Language Grounded Pose Forecasting</td>
-</tr>
-<tr>
-  <td class='col-md-3'>July 2019</td>
-  <td>Paper on Natural Language Grounded Pose Forecasting accepted at 3DV 2019 <a href="https://arxiv.org/pdf/1907.01108.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a> <a href="http://chahuja.com/language2pose" target="_blank"><button type="button" class="btn btn-successs">webpage</button></a></td>
-</tr>
-<tr>
-  <td class='col-md-3'>March 2018</td>
-  <td>Excited to work at Facebook Reality Labs in Summer'18</td>
-</tr>
-<tr>
-  <td class='col-md-3'>January 2018</td>
-  <td>Paper on Lattice Recurrent Units accepted at AAAI 2018 <a href="https://arxiv.org/abs/1710.02254" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a> <a href="http://chahuja.com/lru" target="_blank"><button type="button" class="btn btn-success">webpage</button></a></td>
-</tr>
-<tr>
-  <td class='col-md-3'>October 2017</td>
-  <td>Our survey on Multimodal Machine Learning is online <a href="https://arxiv.org/pdf/1705.09406.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
-</tr>
+
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo" onclick="change()" id="more">More</button>
+    <div id="demo" class="collapse">
+      <tr>
+	    <td class='col-md-3'>July 2020</td>
+	    <td>Paper on Style Transfer for Co-Speech Gesture Animation accepted at ECCV 2020</td>
+	  </tr>
+    </div>
+    <div id="demo" class="collapse">
+      <tr>
+	    <td class='col-md-3'>August 2019</td>
+	    <td>Paper on Visual Pose Forecasting for Personalized Avatar during Dyadic Conversations accepted at ICMI 2019. <a href="https://arxiv.org/pdf/1910.02181.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
+	  </tr>
+    </div>
+    <div id="demo" class="collapse">
+      <tr>
+	    <td class='col-md-3'>August 2019</td>
+	    <td>Honourable mention in LTI SRS symposium on my talk on Natural Language Grounded Pose Forecasting</td>
+	  </tr>
+    </div>
+    <div id="demo" class="collapse">
+      <tr>
+	    <td class='col-md-3'>July 2019</td>
+	    <td>Paper on Natural Language Grounded Pose Forecasting accepted at 3DV 2019 <a href="https://arxiv.org/pdf/1907.01108.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a> <a href="http://chahuja.com/language2pose" target="_blank"><button type="button" class="btn btn-success">webpage</button></a></td>
+	  </tr>
+    </div>
+    <div id="demo" class="collapse">
+      <tr>
+	    <td class='col-md-3'>March 2018</td>
+	    <td>Excited to work at Facebook Reality Labs in Summer'18</td>
+	  </tr>
+    </div>
+    <div id="demo" class="collapse">
+      <tr>
+	    <td class='col-md-3'>January 2018</td>
+	    <td>Paper on Lattice Recurrent Units accepted at AAAI 2018 <a href="https://arxiv.org/abs/1710.02254" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a> <a href="http://chahuja.com/lru" target="_blank"><button type="button" class="btn btn-success">webpage</button></a></td>
+	  </tr>
+    </div>
+    <div id="demo" class="collapse">
+      <tr>
+	    <td class='col-md-3'>October 2017</td>
+	    <td>Our survey on Multimodal Machine Learning is online <a href="https://arxiv.org/pdf/1705.09406.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
+	  </tr>
+    </div>
+
 </table>
 
 
