@@ -96,8 +96,8 @@ I am a PhD candidate at the Language Technologies Institute at <b>Carnegie Mello
     EMNLP Findings 2020<br>
     
     [1] 
-[<a href='javascript: none'
-    onclick='$("#abs_ahuja2020no").toggle()'>abs</a>] [<a href='https://www.aclweb.org/anthology/2020.findings-emnlp.170.pdf' target='_blank'>pdf</a>]  [<a href='https://github.com/chahuja/aisle' target='_blank'>code</a>] <br>
+<a href='javascript: none'
+    onclick='$("#abs_ahuja2020no").toggle()'><button type='button' class='btn btn-secondary'>abs</button></a> <a href='https://www.aclweb.org/anthology/2020.findings-emnlp.170.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='https://github.com/chahuja/aisle' target='_blank'><button type='button' class='btn btn-info'>code</button></a> <br>
     
 <div id="abs_ahuja2020no" style="text-align: justify; display: none" markdown="1">
 We study relationships between spoken language and co-speech gestures in context of two key challenges. First, distributions of text and gestures are inherently skewed making it important to model the long tail. Second, gesture predictions are made at a subword level, making it important to learn relationships between language and audio. We introduce Adversarial Importance Sampled Learning, which combines adversarial learning with importance sampling to strike a balance between precision and coverage. We substantiate the effectiveness of our approach through large-scale quantitative and user studies, which show that our proposed methodology significantly outperforms previous stateof-the-art approaches for gesture generation.
@@ -115,8 +115,8 @@ We study relationships between spoken language and co-speech gestures in context
     IVA 2020<br>
     
     [2] 
-[<a href='javascript: none'
-    onclick='$("#abs_ishii2020impact").toggle()'>abs</a>] [<a href='https://dl.acm.org/doi/10.1145/3383652.3423908' target='_blank'>pdf</a>] <br>
+<a href='javascript: none'
+    onclick='$("#abs_ishii2020impact").toggle()'><button type='button' class='btn btn-secondary'>abs</button></a> <a href='https://dl.acm.org/doi/10.1145/3383652.3423908' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
     
 <div id="abs_ishii2020impact" style="text-align: justify; display: none" markdown="1">
 To realize natural-looking virtual agents, one key technical challenge is to automatically generate nonverbal behaviors from spoken language. Since nonverbal behavior varies depending on personality, it is important to generate these nonverbal behaviors to match the expected personality of a virtual agent. In this work, we study how personality traits relate to the process of generating individual nonverbal behaviors from the whole body, including the head, eye gaze, arms, and posture. To study this, we first created a dialogue corpus including transcripts, a broad range of labelled nonverbal behaviors, and the Big Five personality scores of participants in dyad interactions. We constructed models that can predict each nonverbal behavior label given as an input language representation from the participants’ spoken sentences. Our experimental results show that personality can help improve the prediction of nonverbal behaviors.
@@ -134,8 +134,8 @@ To realize natural-looking virtual agents, one key technical challenge is to aut
     ECCV 2020<br>
     
     [3] 
-[<a href='javascript: none'
-    onclick='$("#abs_ahuja2020style").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/2007.12553' target='_blank'>pdf</a>]  [<a href='http://chahuja.com/mix-stage' target='_blank'>webpage</a>] <br>
+<a href='javascript: none'
+    onclick='$("#abs_ahuja2020style").toggle()'><button type='button' class='btn btn-secondary'>abs</button></a> <a href='https://arxiv.org/abs/2007.12553' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='http://chahuja.com/mix-stage' target='_blank'><button type='button' class='btn btn-success'>webpage</button></a> <br>
     
 <div id="abs_ahuja2020style" style="text-align: justify; display: none" markdown="1">
 How can we teach robots or virtual assistants to gesture naturally? Can we go further and adapt the gesturing style to follow a specific speaker? Gestures that are naturally timed with corresponding speech during human communication are called co-speech gestures. A key challenge, called gesture style transfer, is to learn a model that generates these gestures for a speaking agent 'A' in the gesturing style of a target speaker 'B'. A secondary goal is to simultaneously learn to generate co-speech gestures for multiple speakers while remembering what is unique about each speaker. We call this challenge style preservation. In this paper, we propose a new model, named Mix-StAGE, which trains a single model for multiple speakers while learning unique style embeddings for each speaker's gestures in an end-to-end manner. A novelty of Mix-StAGE is to learn a mixture of generative models which allows for conditioning on the unique gesture style of each speaker. As Mix-StAGE disentangles style and content of gestures, gesturing styles for the same input speech can be altered by simply switching the style embeddings. Mix-StAGE also allows for style preservation when learning simultaneously from multiple speakers. We also introduce a new dataset, Pose-Audio-Transcript-Style (PATS), designed to study gesture generation and style transfer. Our proposed Mix-StAGE model significantly outperforms the previous state-of-the-art approach for gesture generation and provides a path towards performing gesture style transfer across multiple speakers. Link to code, data, and videos: http://chahuja.com/mix-stage
@@ -153,8 +153,8 @@ How can we teach robots or virtual assistants to gesture naturally? Can we go fu
     ICMI 2019<br>
     
     [4] 
-[<a href='javascript: none'
-    onclick='$("#abs_ahuja2019to").toggle()'>abs</a>] [<a href='https://arxiv.org/pdf/1910.02181.pdf' target='_blank'>pdf</a>] <br>
+<a href='javascript: none'
+    onclick='$("#abs_ahuja2019to").toggle()'><button type='button' class='btn btn-secondary'>abs</button></a> <a href='https://arxiv.org/pdf/1910.02181.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
     
 <div id="abs_ahuja2019to" style="text-align: justify; display: none" markdown="1">
 Non verbal behaviours such as gestures, facial expressions, body posture, and para-linguistic cues have been shown to complement or clarify verbal messages. Hence to improve telepresence, in form of an avatar, it is important to model these behaviours, especially in dyadic interactions. Creating such personalized avatars not only requires to model intrapersonal dynamics between a avatar's speech and their body pose, but it also needs to model interpersonal dynamics with the interlocutor present in the conversation. In this paper, we introduce a neural architecture named Dyadic Residual-Attention Model (DRAM), which integrates intrapersonal (monadic) and interpersonal (dyadic) dynamics using selective attention to generate sequences of body pose conditioned on audio and body pose of the interlocutor and audio of the human operating the avatar. We evaluate our proposed model on dyadic conversational data consisting of pose and audio of both participants, confirming the importance of adaptive attention between monadic and dyadic dynamics when predicting avatar pose. We also conduct a user study to analyze judgments of human observers. Our results confirm that the generated body pose is more natural, models intrapersonal dynamics and interpersonal dynamics better than non-adaptive monadic/dyadic models.
@@ -172,8 +172,8 @@ Non verbal behaviours such as gestures, facial expressions, body posture, and pa
     3DV 2019<br>
     
     [5] 
-[<a href='javascript: none'
-    onclick='$("#abs_ahuja2019language").toggle()'>abs</a>] [<a href='https://arxiv.org/pdf/1907.01108.pdf' target='_blank'>pdf</a>]  [<a href='https://github.com/chahuja/language2pose' target='_blank'>code</a>]  [<a href='http://chahuja.com/language2pose' target='_blank'>webpage</a>] <br>
+<a href='javascript: none'
+    onclick='$("#abs_ahuja2019language").toggle()'><button type='button' class='btn btn-secondary'>abs</button></a> <a href='https://arxiv.org/pdf/1907.01108.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='https://github.com/chahuja/language2pose' target='_blank'><button type='button' class='btn btn-info'>code</button></a>  <a href='http://chahuja.com/language2pose' target='_blank'><button type='button' class='btn btn-success'>webpage</button></a> <br>
     
 <div id="abs_ahuja2019language" style="text-align: justify; display: none" markdown="1">
 Generating animations from natural language sentences finds its applications in a a number of domains such as movie script visualization, virtual human animation and, robot motion planning. These sentences can describe different kinds of actions, speeds and direction of these actions, and possibly a target destination. The core modeling challenge in this language-to-pose application is how to map linguistic concepts to motion animations. In this paper, we address this multimodal problem by introducing a neural architecture called Joint Language-toPose (or JL2P), which learns a joint embedding of language and pose. This joint embedding space is learned end-toend using a curriculum learning approach which emphasizes shorter and easier sequences first before moving to longer and harder ones. We evaluate our proposed model on a publicly available corpus of 3D pose data and humanannotated sentences. Both objective metrics and human judgment evaluation confirm that our proposed approach is able to generate more accurate animations and are deemed visually more representative by humans than other data driven approaches.
@@ -191,8 +191,8 @@ Generating animations from natural language sentences finds its applications in 
     AAAI 2018<br>
     
     [6] 
-[<a href='javascript: none'
-    onclick='$("#abs_ahuja2018lattice").toggle()'>abs</a>] [<a href='https://arxiv.org/pdf/1710.02254.pdf' target='_blank'>pdf</a>]  [<a href='https://github.com/chahuja/lru' target='_blank'>code</a>]  [<a href='http://chahuja.com/lru' target='_blank'>webpage</a>] <br>
+<a href='javascript: none'
+    onclick='$("#abs_ahuja2018lattice").toggle()'><button type='button' class='btn btn-secondary'>abs</button></a> <a href='https://arxiv.org/pdf/1710.02254.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='https://github.com/chahuja/lru' target='_blank'><button type='button' class='btn btn-info'>code</button></a>  <a href='http://chahuja.com/lru' target='_blank'><button type='button' class='btn btn-success'>webpage</button></a> <br>
     
 <div id="abs_ahuja2018lattice" style="text-align: justify; display: none" markdown="1">
 Recurrent neural networks have shown remarkable success in modeling sequences. However low resource situations still adversely affect the generalizability of these models. We introduce a new family of models, called Lattice Recurrent Units (LRU), to address the challenge of learning deep multi-layer recurrent models with limited resources. LRU models achieve this goal by creating distinct (but coupled) flow of information inside the units: a first flow along time dimension and a second flow along depth dimension. It also offers a symmetry in how information can flow horizontally and vertically. We analyze the effects of decoupling three different components of our LRU model: Reset Gate, Update Gate and Projected State. We evaluate this family of new LRU models on computational convergence rates and statistical efficiency. Our experiments are performed on four publicly-available datasets, comparing with Grid-LSTM and Recurrent Highway networks. Our results show that LRU has better empirical computational convergence rates and statistical efficiency values, along with learning more accurate language models.
@@ -210,8 +210,8 @@ Recurrent neural networks have shown remarkable success in modeling sequences. H
     TPAMI 2017<br>
     
     [7] 
-[<a href='javascript: none'
-    onclick='$("#abs_baltruvsaitis2017multimodal").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/1705.09406' target='_blank'>pdf</a>] <br>
+<a href='javascript: none'
+    onclick='$("#abs_baltruvsaitis2017multimodal").toggle()'><button type='button' class='btn btn-secondary'>abs</button></a> <a href='https://arxiv.org/abs/1705.09406' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
     
 <div id="abs_baltruvsaitis2017multimodal" style="text-align: justify; display: none" markdown="1">
 —Our experience of the world is multimodal - we see objects, hear sounds, feel texture, smell odors, and taste flavors. Modality refers to the way in which something happens or is experienced and a research problem is characterized as multimodal when it includes multiple such modalities. In order for Artificial Intelligence to make progress in understanding the world around us, it needs to be able to interpret such multimodal signals together. Multimodal machine learning aims to build models that can process and relate information from multiple modalities. It is a vibrant multi-disciplinary field of increasing importance and with extraordinary potential. Instead of focusing on specific multimodal applications, this paper surveys the recent advances in multimodal machine learning itself and presents them in a common taxonomy. We go beyond the typical early and late fusion categorization and identify broader challenges that are faced by multimodal machine learning, namely: representation, translation, alignment, fusion, and co-learning. This new taxonomy will enable researchers to better understand the state of the field and identify directions for future research.
@@ -229,8 +229,8 @@ Recurrent neural networks have shown remarkable success in modeling sequences. H
     ICASSP 2014<br>
     
     [8] 
-[<a href='javascript: none'
-    onclick='$("#abs_ahuja2014fast").toggle()'>abs</a>] [<a href='files/icassp_chahuja_paper.pdf' target='_blank'>pdf</a>] <br>
+<a href='javascript: none'
+    onclick='$("#abs_ahuja2014fast").toggle()'><button type='button' class='btn btn-secondary'>abs</button></a> <a href='files/icassp_chahuja_paper.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
     
 <div id="abs_ahuja2014fast" style="text-align: justify; display: none" markdown="1">
 Developing individualized head related transfer functions (HRTF) is an essential requirement for accurate virtualization of sound. However it is time consuming and complicated for both the subject and the developer. Obtaining the spectral notches which are the most prominent features of HRTF is very important to reconstruct the head related impulse response (HRIR) accurately. In this paper, a method suitable for fast computation of the frequencies of spectral notches is proposed. The linear prediction residual cepstrum is used to compute the spectral notches with a high degree of accuracy in this work. Subsequent use of Batteaus Reflection model to overlay the spectral notches on the pinna images indicate that the proposed method is able to provide finer contours. Experiments on reconstruction of the HRIR indicates that the method performs better than other methods.
@@ -248,8 +248,8 @@ Developing individualized head related transfer functions (HRTF) is an essential
     HSCMA 2014<br>
     
     [9] 
-[<a href='javascript: none'
-    onclick='$("#abs_sohni2014extraction").toggle()'>abs</a>] [<a href='files/hscma_chahuja_paper.pdf' target='_blank'>pdf</a>] <br>
+<a href='javascript: none'
+    onclick='$("#abs_sohni2014extraction").toggle()'><button type='button' class='btn btn-secondary'>abs</button></a> <a href='files/hscma_chahuja_paper.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
     
 <div id="abs_sohni2014extraction" style="text-align: justify; display: none" markdown="1">
 In this paper, a fast method for the extraction of pinna spectral notches (PSN) in the median plane of a virtual spherical microphone array is discussed. In general, PSN can be extracted from the Head Related Impulse Response (HRIR) measured by a spherical array of microphones. However, the PSN extracted herein are computationally complex and also not accurate at lower elevation angles. This work proposes a novel approach to reconstruct the HRIR using microphones over the median plane of a virtual spherical array. The virtual spherical array itself is simulated using the Fourier Bessel series (FBS). Subsequently, these HRIRs are used to extract the PSN. This method is computationally efficient since it is done over the median plane rather than over the complete sphere. On the other hand, it is also accurate due to the utilization of the Fourier Bessel series in the extraction of the PSN. Experimental results obtained on the CIPIC database indicate a high degree of resemblance to the actual pinna walls, even at the lower elevation angles. The results are motivating enough for the method to be considered for resolving elevation ambiguity in 3D audio.
