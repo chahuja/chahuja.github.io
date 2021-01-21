@@ -263,7 +263,8 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
 
 
 ## <i class="fa fa-chevron-right"></i> Talks
-    <div class="full-width">
+
+  <div class="full-width">
 
   <div class="video">
   <a href="https://slideslive.com/38940175/no-gestures-left-behind-learning-relationships-between-spoken-language-and-freeform-gestures" target="_blank"><img width="560" height="315" src="pics/talks/emnlp2020_talk.png"></a>
