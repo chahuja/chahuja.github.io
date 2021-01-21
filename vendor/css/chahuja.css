@@ -30,3 +30,22 @@
 h2 {
     padding-top: 1em;
 }
+
+
+div.full-width {
+    position:relative;
+    float:left;
+    width:100%;
+}
+
+@media screen and (min-width: 751px), screen and (min-device-width:751) {
+    div.video {
+	position:relative;
+	float:left;
+	padding:5px;
+	width:50%;
+    }
+    iframe {
+	width:100%;
+    }
+ }
