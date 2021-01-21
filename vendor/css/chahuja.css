@@ -48,4 +48,10 @@ div.full-width {
     iframe {
 	width:100%;
     }
- }
+}
+
+div.video-hover:hover{
+    background: #f3f6fa;
+    border: solid 1px #b1aee4;
+    border-radius: 0.25rem;
+}
