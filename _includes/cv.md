@@ -264,16 +264,16 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
 
 ## <i class="fa fa-chevron-right"></i> Talks
 
-  <div class="full-width">
+  <table class="full-width">
 
   <div class="video video-hover">
-  <a href="https://slideslive.com/38940175/no-gestures-left-behind-learning-relationships-between-spoken-language-and-freeform-gestures" target="_blank"><img width="560" height="315" src="pics/talks/emnlp2020_talk.png"></a>
+  <a href="https://slideslive.com/38940175/no-gestures-left-behind-learning-relationships-between-spoken-language-and-freeform-gestures" target="_blank"><img width="450" height="315" src="pics/talks/emnlp2020_talk.png"></a>
   <center><h4>EMNLP 2020</h4></center>
   </div>
   
 
 
 
-  <div class="video video-hover"><iframe width="560" height="315" src="https://www.youtube.com/embed/L7ZGHmMJLCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <center><h4>ECCV 2020</h4></center></div>
+  <div class="video video-hover"><iframe width="450" height="315" src="https://www.youtube.com/embed/L7ZGHmMJLCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <center><h4>ECCV 2020</h4></center></div>
 
-    </div>
+    </table>

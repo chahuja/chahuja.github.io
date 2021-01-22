@@ -33,9 +33,14 @@ h2 {
 
 
 div.full-width {
-    position:relative;
-    float:left;
-    width:100%;
+  position:relative;
+  float:left;
+  width:100%;
+}
+
+table.full-width {
+  position:relative;
+  width:100%;
 }
 
 @media screen and (min-width: 751px), screen and (min-device-width:751) {
