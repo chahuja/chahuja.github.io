@@ -84,6 +84,39 @@ I am a PhD candidate at the Language Technologies Institute at <b>Carnegie Mello
 </table>
 
 
+## <i class="fa fa-chevron-right"></i> Pre-prints
+
+<table class="table table-hover">
+
+<tr>
+<td class="col-md-3"><img src="pics/publications/ahuja2021low.png"/></td>
+<td>
+    <strong>2. Low-Resource Adaptation of Spatio-Temporal Crossmodal Generative Models</strong><br>
+    <strong>C. Ahuja</strong>, D. Lee, and L. Morency<br>
+    Coming Soon <br>
+    
+    <br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-3"><img src="pics/publications/ahuja2021low.png"/></td>
+<td>
+    <strong>1. Crossmodal clustered contrastive learning: Grounding of spoken language to gestures</strong><br>
+    D. Lee, <strong>C. Ahuja</strong>, and L. Morency<br>
+    Coming Soon <br>
+    
+    <br>
+    
+</td>
+</tr>
+
+
+</table>
+
+
 ## <i class="fa fa-chevron-right"></i> Selected Publications
 
 <a href="https://scholar.google.com/citations?user=CX8zqPoAAAAJ&hl" class="btn btn-primary" style="padding: 0.3em;">
@@ -91,32 +124,6 @@ I am a PhD candidate at the Language Technologies Institute at <b>Carnegie Mello
 </a>
 
 <table class="table table-hover">
-
-<tr>
-<td class="col-md-3"><img src="pics/publications/ahuja2021low.png"/></td>
-<td>
-    <strong>11. Low-Resource Adaptation of Spatio-Temporal Crossmodal Generative Models</strong><br>
-    <strong>C. Ahuja</strong>, D. Lee, and L. Morency<br>
-    Under Review <br>
-    
-    <br>
-    
-</td>
-</tr>
-
-
-<tr>
-<td class="col-md-3"><img src="pics/publications/ahuja2021low.png"/></td>
-<td>
-    <strong>10. Crossmodal clustered contrastive learning: Grounding of spoken language to gestures</strong><br>
-    D. Lee, <strong>C. Ahuja</strong>, and L. Morency<br>
-    Under Review <br>
-    
-    <br>
-    
-</td>
-</tr>
-
 
 <tr>
 <td class="col-md-3"><a href='https://www.aclweb.org/anthology/2020.findings-emnlp.170.pdf' target='_blank'><img src="pics/publications/ahuja2020no.png"/></a> </td>
