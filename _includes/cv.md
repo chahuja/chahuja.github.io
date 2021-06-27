@@ -4,6 +4,10 @@ I am a PhD candidate at the Language Technologies Institute at <b>Carnegie Mello
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>May 2020</td>
+  <td>We are organizing the <b>First Workshop on Crossmodal Social Animation</b> at <a href="http://iccv2021.thecvf.com/">ICCV2021</a>. Consider submissing your work. <a href="http://sites.google.com/view/xs-anim" target="_blank"><button type="button" class="btn btn-success">webpage</button></a></td>
+</tr>
+<tr>
   <td class='col-md-3'>December 2020</td>
   <td>Succesfully proposed my thesis titled <b>Communication Beyond Words: Grounding Visual Body Motion with Language</b> <a href="https://drive.google.com/open?id=1lrk5J4vJjBirAyZMOK6pbozGkB4DKebO&authuser=cahuja%40andrew.cmu.edu&usp=drive_fs" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
 </tr>
@@ -19,15 +23,15 @@ I am a PhD candidate at the Language Technologies Institute at <b>Carnegie Mello
   <td class='col-md-3'>August 2020</td>
   <td>PATS (Pose-Audio-Transcripts-Style) Dataset released. <a href="http://chahuja.com/pats" target="_blank"><button type="button" class="btn btn-success">webpage</button></a></td>
 </tr>
-<tr>
-  <td class='col-md-3'>August 2020</td>
-  <td>Code for Style Transfer for Co-Speech Gesture Animation released. <a href="https://github.com/chahuja/mix-stage" target="_blank"><button type="button" class="btn btn-info">code</button></a></td>
-</tr>
 </table>
 
 <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo" onclick="change()" id="more">More</button>
 <div id="demo" class="collapse">
 <table class="table table-hover">
+      <tr>
+	    <td class='col-md-3'>August 2020</td>
+	    <td>Code for Style Transfer for Co-Speech Gesture Animation released. <a href="https://github.com/chahuja/mix-stage" target="_blank"><button type="button" class="btn btn-info">code</button></a></td>
+	  </tr>	  
       <tr>
 	    <td class='col-md-3'>July 2020</td>
 	    <td>Paper on Style Transfer for Co-Speech Gesture Animation accepted at ECCV 2020</td>
@@ -87,6 +91,32 @@ I am a PhD candidate at the Language Technologies Institute at <b>Carnegie Mello
 </a>
 
 <table class="table table-hover">
+
+<tr>
+<td class="col-md-3"><img src="pics/publications/ahuja2021low.png"/></td>
+<td>
+    <strong>11. Low-Resource Adaptation of Spatio-Temporal Crossmodal Generative Models</strong><br>
+    <strong>C. Ahuja</strong>, D. Lee, and L. Morency<br>
+    Under Review <br>
+    
+    <br>
+    
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-3"><img src="pics/publications/ahuja2021low.png"/></td>
+<td>
+    <strong>10. Crossmodal clustered contrastive learning: Grounding of spoken language to gestures</strong><br>
+    D. Lee, <strong>C. Ahuja</strong>, and L. Morency<br>
+    Under Review <br>
+    
+    <br>
+    
+</td>
+</tr>
+
 
 <tr>
 <td class="col-md-3"><a href='https://www.aclweb.org/anthology/2020.findings-emnlp.170.pdf' target='_blank'><img src="pics/publications/ahuja2020no.png"/></a> </td>
