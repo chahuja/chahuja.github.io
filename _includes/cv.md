@@ -102,7 +102,7 @@ I am a PhD candidate at the Language Technologies Institute at <b>Carnegie Mello
 
 
 <tr>
-<td class="col-md-3"><img src="pics/publications/ahuja2021low.png"/></td>
+<td class="col-md-3"><img src="pics/publications/lee2021crossmodal.png"/></td>
 <td>
     <strong>1. Crossmodal clustered contrastive learning: Grounding of spoken language to gestures</strong><br>
     D. Lee, <strong>C. Ahuja</strong>, and L. Morency<br>
