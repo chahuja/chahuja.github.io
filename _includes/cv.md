@@ -371,6 +371,8 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
 <tr>
   <td>
         <b><a href="https://www.youtube.com/embed/L7ZGHmMJLCc">Style Transfer for Co-speech Gesture Generation</a></b>
+	
+      <br> ECCV 2020, Online
   </td>
   <td class='col-md-2' style='text-align:right;'>September 2020</td>
 </tr>
