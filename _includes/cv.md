@@ -319,12 +319,12 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
 ## <i class="fa fa-chevron-right"></i> Teaching Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-1'>Spring 2018</td>
-  <td><strong><a href="https://structuredprediction11763.github.io/structuredprediction.github.io/">Structured Prediction for Language and Other Discrete Data</a></strong> (CMU 11-763), Head TA</td>
+<td><strong><a href="https://structuredprediction11763.github.io/structuredprediction.github.io/">Structured Prediction for Language and Other Discrete Data</a></strong> (CMU 11-763), Head TA</td>
+<td class='col-md-2' style='text-align:right;'>Spring 2018</td>
 </tr>
 <tr>
-  <td class='col-md-1'>Spring 2017</td>
-  <td><strong>Multimodal Machine Learning</strong> (CMU 11-777), Head TA</td>
+<td><strong>Multimodal Machine Learning</strong> (CMU 11-777), Head TA</td>
+<td class='col-md-2' style='text-align:right;'>Spring 2017</td>
 </tr>
 </table>
 
@@ -357,7 +357,7 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
 </tr>
 <tr>
   <td>
-      Grant Reviewer Army Research Office (ARO)
+      Grant Reviewer: Army Research Office (ARO)
   <td class='col-md-2' style='text-align:right;'></td>
   </td>
 </tr>
@@ -378,5 +378,52 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
       CMU Graduate Student Association Representative for Language Technologies Institute
   <td class='col-md-2' style='text-align:right;'>2017</td>
   </td>
+</tr>
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Student Mentorship
+<table class="table table-hover">
+<tr>
+  <td>
+        <a href="https://www.linkedin.com/in/don-dong-won-lee-ab964b172/">Dong Won Lee</a> (CMU BS → CMU MS in Machine Learning): Self-supervised generative models.
+  </td>
+  <td class='col-md-1' style='text-align:right;'></td>
+</tr>
+<tr>
+  <td>
+        <a href="https://web.iiit.ac.in/~shradha.sehgal/">Shradha Sehgal</a> (IIIT Hyderabad B.Tech.): Evaluation of generative models.
+  </td>
+  <td class='col-md-1' style='text-align:right;'></td>
+</tr>
+<tr>
+  <td>
+        Arvin Wu (CMU BS): Social intelligence benchmarking.
+  </td>
+  <td class='col-md-1' style='text-align:right;'></td>
+</tr>
+<tr>
+  <td>
+        <a href="https://www.linkedin.com/in/nikithamurikinati/">Nikitha Murikinati</a> (CMU BS): Study of relationships between co-speech gestures and prosody.
+  </td>
+  <td class='col-md-1' style='text-align:right;'></td>
+</tr>
+<tr>
+  <td>
+        <a href="https://www.linkedin.com/in/sharathrao1/">Sharath Rao</a> (CMU MS → PlayStation) Back-channel prediction in dyadic conversations.
+  </td>
+  <td class='col-md-1' style='text-align:right;'></td>
+</tr>
+<tr>
+  <td>
+        Qingtao Hu (CMU MS → Amazon): Unsupervised disentanglement of style and content in images.
+  </td>
+  <td class='col-md-1' style='text-align:right;'></td>
+</tr>
+<tr>
+  <td>
+        Anirudha Rayasam (CMU MS → Google): Language grounded pose forecasting.
+  </td>
+  <td class='col-md-1' style='text-align:right;'></td>
 </tr>
 </table>
