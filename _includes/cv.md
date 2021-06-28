@@ -169,7 +169,7 @@ To realize natural-looking virtual agents, one key technical challenge is to aut
     <strong>7. Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional Mixture Approach</strong><br>
     <strong>C. Ahuja</strong>, D. Lee, Y. Nakano, and L. Morency<br>
     ECCV 2020<br>
-    Media Coverage: <a style="color:#e8201c;" href="https://techxplore.com/news/2020-08-mix-stage-gestures-accompany-virtual-agent.html">TechXplore</a> <br>
+    Media Coverage: <a style="color:#cc0000;" href="https://techxplore.com/news/2020-08-mix-stage-gestures-accompany-virtual-agent.html">TechXplore</a> <br>
      
 <a href='javascript: none'
     onclick='$("#abs_ahuja2020style").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://arxiv.org/abs/2007.12553' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='http://chahuja.com/mix-stage' target='_blank'><button type='button' class='btn btn-success'>webpage</button></a> <br>
@@ -207,7 +207,7 @@ Non verbal behaviours such as gestures, facial expressions, body posture, and pa
     <strong>5. Language2Pose: Natural Language Grounded Pose Forecasting</strong><br>
     <strong>C. Ahuja</strong> and L. Morency<br>
     3DV 2019<br>
-    Media Coverage: <a style="color:#e8201c;" href="https://www.scientificamerican.com/article/drenchable-drones-prickly-cells-and-face-tracked-chimps-science-gifs-to-start-your-week/">Scientific American</a>, <a style="color:#e8201c;" href="https://medium.com/syncedreview/cmu-creates-language2pose-model-that-generates-animations-from-text-5a08b5f71e97">Synced</a>, <a style="color:#e8201c;" href="https://venturebeat.com/2019/09/11/ai-researchers-translate-language-into-physical-movement/">Venture Beat</a> <br>
+    Media Coverage: <a style="color:#cc0000;" href="https://www.scientificamerican.com/article/drenchable-drones-prickly-cells-and-face-tracked-chimps-science-gifs-to-start-your-week/">Scientific American</a>, <a style="color:#cc0000;" href="https://medium.com/syncedreview/cmu-creates-language2pose-model-that-generates-animations-from-text-5a08b5f71e97">Synced</a>, <a style="color:#cc0000;" href="https://venturebeat.com/2019/09/11/ai-researchers-translate-language-into-physical-movement/">Venture Beat</a> <br>
      
 <a href='javascript: none'
     onclick='$("#abs_ahuja2019language").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://arxiv.org/pdf/1907.01108.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='https://github.com/chahuja/language2pose' target='_blank'><button type='button' class='btn btn-info'>code</button></a>  <a href='http://chahuja.com/language2pose' target='_blank'><button type='button' class='btn btn-success'>webpage</button></a> <br>
