@@ -1,4 +1,4 @@
-I am a PhD candidate at the Language Technologies Institute at <b>Carnegie Mellon University</b>. I am advised by [Dr. Louis-Philippe Morency (LP)](https://www.cs.cmu.edu/~morency/) in the Multicomp Lab and we work on anything multimodal. Lately, my research efforts have been directed towards <b>grounding body gestures</b> in Speech, and Language. As an undergraduate researcher at <b>Indian Institute of Technology(IIT), Kanpur</b>, I worked with [Dr. Rajesh Hegde](http://home.iitk.ac.in/~rhegde/) on <b>Spatial Audio</b> and <b>Speaker Diarization</b>, and [Dr. Vinay Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) on <b>Video Summarization</b>.
+I am a final year PhD candidate at the Language Technologies Institute at <b>Carnegie Mellon University</b>. I am advised by [Dr. Louis-Philippe Morency (LP)](https://www.cs.cmu.edu/~morency/) in the Multicomp Lab. My research focuses on endowing agents and remote avatars with realistic <b>Virtual Presence</b> and <b>Social Intelligence</b> by means of <b>Multimodal Generative Modeling</b>. These directions have the potential of making ameaningful impact in communication, collaborations, education and mental health for human-human and human-robot interaction, especially now when a lot of social and work spaces are becoming remote. <br> <br> In the past, I have interned at Facebook Reality Labs on generation of nonverbal behaviours for a communicating avatar. As an undergraduate researcher at <b>Indian Institute of Technology(IIT), Kanpur</b>, I worked with [Dr. Rajesh Hegde](http://home.iitk.ac.in/~rhegde/) on <b>Spatial Audio</b> and <b>Speaker Diarization</b>, and [Dr. Vinay Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) on <b>Video Summarization</b>
 
 
 ## <i class="fa fa-chevron-right"></i> News
@@ -314,3 +314,69 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
   <div class="video video-hover"><iframe width="450" height="315" src="https://www.youtube.com/embed/L7ZGHmMJLCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <center><h4>ECCV 2020</h4></center></div>
 
   </table>
+
+
+## <i class="fa fa-chevron-right"></i> Teaching Experience
+<table class="table table-hover">
+<tr>
+  <td class='col-md-1'>Spring 2018</td>
+  <td><strong><a href="https://structuredprediction11763.github.io/structuredprediction.github.io/">Structured Prediction for Language and Other Discrete Data</a></strong> (CMU 11-763), Head TA</td>
+</tr>
+<tr>
+  <td class='col-md-1'>Spring 2017</td>
+  <td><strong>Multimodal Machine Learning</strong> (CMU 11-777), Head TA</td>
+</tr>
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Professional Activities and Service
+<table class="table table-hover">
+<tr>
+  <td>
+     <a href="https://sites.google.com/view/xs-anim">Co-organizer: ICCV 2021 First Workshop on Crossmodal Social Animation</a>
+  <td class='col-md-2' style='text-align:right;'>2021</td>
+  </td>
+</tr>
+<tr>
+  <td>
+      Co-organizer: Multimodal Machine Learning Reading Group, CMU
+  <td class='col-md-2' style='text-align:right;'>Spring 2020</td>
+  </td>
+</tr>
+<tr>
+  <td>
+      Conference Program Commiitee: Neurips, SIGGRAPH, ICLR, ACL, EMNLP, ACM Multimedia, ICMI
+  <td class='col-md-2' style='text-align:right;'></td>
+  </td>
+</tr>
+<tr>
+  <td>
+      Workshop Program Committee: NeurIPS workshop on Multimodal Machine Learning, ACL Workshop on Multimodal Language, NAACL-HLT Student Research Workshop, ICMI GENEA Workshop
+  <td class='col-md-2' style='text-align:right;'></td>
+  </td>
+</tr>
+<tr>
+  <td>
+      Grant Reviewer Army Research Office (ARO)
+  <td class='col-md-2' style='text-align:right;'></td>
+  </td>
+</tr>
+<tr>
+  <td>
+      CMU Graduate Applicant Support Program Volunteer
+  <td class='col-md-2' style='text-align:right;'>2020</td>
+  </td>
+</tr>
+<tr>
+  <td>
+      CMU AI Undergraduate Research Mentor
+  <td class='col-md-2' style='text-align:right;'>2020-21</td>
+  </td>
+</tr>
+<tr>
+  <td>
+      CMU Graduate Student Association Representative for Language Technologies Institute
+  <td class='col-md-2' style='text-align:right;'>2017</td>
+  </td>
+</tr>
+</table>
