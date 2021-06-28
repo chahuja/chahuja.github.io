@@ -350,7 +350,7 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> (Invited) Talks
+## <i class="fa fa-chevron-right"></i> Academic Talks
 <table class="table table-hover">
 <tr>
   <td>
