@@ -1,4 +1,4 @@
-I am a final year PhD candidate at the Language Technologies Institute at <b>Carnegie Mellon University</b>. I am advised by [Dr. Louis-Philippe Morency (LP)](https://www.cs.cmu.edu/~morency/) in the Multicomp Lab. My research focuses on endowing agents and remote avatars with realistic <b>Virtual Presence</b> and <b>Social Intelligence</b> by means of <b>Multimodal Generative Modeling</b>. These directions have the potential of making ameaningful impact in communication, collaborations, education and mental health for human-human and human-robot interaction, especially now when a lot of social and work spaces are becoming remote. <br> <br> In the past, I have interned at Facebook Reality Labs on generation of nonverbal behaviours for a communicating avatar. As an undergraduate researcher at <b>Indian Institute of Technology(IIT), Kanpur</b>, I worked with [Dr. Rajesh Hegde](http://home.iitk.ac.in/~rhegde/) on <b>Spatial Audio</b> and <b>Speaker Diarization</b>, and [Dr. Vinay Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) on <b>Video Summarization</b>
+I am a final year PhD candidate at the Language Technologies Institute at <b>Carnegie Mellon University</b>. I am advised by [Dr. Louis-Philippe Morency (LP)](https://www.cs.cmu.edu/~morency/) in the Multicomp Lab. My research focuses on endowing agents and remote avatars with realistic <b>Virtual Presence</b> and <b>Social Intelligence</b> by means of <b>Multimodal Generative Modeling</b>. These directions have the potential of making a meaningful impact on remote communication, collaborations, education and mental health for human-human and human-robot interaction, especially now when a lot of social and work spaces are gradually moving online. <br> <br> In the past, I have interned at Facebook Reality Labs on generation of nonverbal behaviours for a communicating avatar. As an undergraduate researcher at <b>Indian Institute of Technology(IIT), Kanpur</b>, I worked with [Dr. Rajesh Hegde](http://home.iitk.ac.in/~rhegde/) on <b>Spatial Audio</b> and <b>Speaker Diarization</b>, and [Dr. Vinay Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) on <b>Video Summarization</b>
 
 
 ## <i class="fa fa-chevron-right"></i> News
@@ -299,7 +299,58 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Talks
+## <i class="fa fa-chevron-right"></i> Resources
+
+<table class="table table-hover">
+
+<tr>
+<td class="col-md-3"><a href='https://chahuja.com/pats' target='_blank'><img src="pics/publications/ahuja2020pats.png"/></a> </td>
+<td>
+    <strong>1. PATS Dataset: Pose, Audio, Transcripts and Style</strong><br>
+    <strong>C. Ahuja</strong>, D. Lee, Y. Nakano, and L. Morency<br>
+     <br>
+    
+     <a href='https://chahuja.com/pats' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='https://chahuja.com/pats' target='_blank'><button type='button' class='btn btn-success'>webpage</button></a> <br>
+    
+</td>
+</tr>
+
+
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Education
+
+<table class="table table-hover">
+  <tr>
+    <td>
+        <strong>Ph.D. in Language Technologies</strong>
+          (3.97/4.00)
+        <br>
+      Carnegie Mellon University | Pittsburgh, PA
+        <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+        <br> Thesis Proposal: <a href='https://drive.google.com/open?id=1lrk5J4vJjBirAyZMOK6pbozGkB4DKebO&authuser=cahuja%40andrew.cmu.edu&usp=drive_fs'>Communication Beyond Words: Grounding Visual Body Motion with Language</a>
+        <br> Advisor: <a href='https://www.cs.cmu.edu/~morency/'>Louis-Philippe Morency</a>
+        </p>
+    </td>
+    <td class="col-md-2" style='text-align:right;'>2015 - 2021 (Expected)</td>
+  </tr>
+  <tr>
+    <td>
+        <strong>B.Tech. in Electrical Engineering</strong>
+          (9.5/10)
+        <br>
+      Indian Institute of Technology | Kanpur, India
+        <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
+        <br> Advisors: <a href='http://home.iitk.ac.in/~rhegde/'>Rajesh Hegde</a>, <a href='https://vinaypn.github.io/'>Vinay P. Namboodiri</a>
+        </p>
+    </td>
+    <td class="col-md-2" style='text-align:right;'>2011 - 2015</td>
+  </tr>
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> (Invited) Talks
 <table class="table table-hover">
 <tr>
   <td>
@@ -338,6 +389,53 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
       <br> LTI Student Research Symposium, Pittsburgh PA
   </td>
   <td class='col-md-2' style='text-align:right;'>August 2019</td>
+</tr>
+</table>
+
+
+## <i class="fa fa-chevron-right"></i> Student Mentorship
+<table class="table table-hover">
+<tr>
+  <td>
+        <a href="https://www.linkedin.com/in/don-dong-won-lee-ab964b172/">Dong Won Lee</a> (CMU BS → CMU MS in Machine Learning): Self-supervised generative models.
+  </td>
+  <td class='col-md-1' style='text-align:right;'></td>
+</tr>
+<tr>
+  <td>
+        <a href="https://web.iiit.ac.in/~shradha.sehgal/">Shradha Sehgal</a> (IIIT Hyderabad B.Tech.): Evaluation of generative models.
+  </td>
+  <td class='col-md-1' style='text-align:right;'></td>
+</tr>
+<tr>
+  <td>
+        Arvin Wu (CMU BS): Social intelligence benchmarking.
+  </td>
+  <td class='col-md-1' style='text-align:right;'></td>
+</tr>
+<tr>
+  <td>
+        <a href="https://www.linkedin.com/in/nikithamurikinati/">Nikitha Murikinati</a> (CMU BS): Study of relationships between co-speech gestures and prosody.
+  </td>
+  <td class='col-md-1' style='text-align:right;'></td>
+</tr>
+<tr>
+  <td>
+        <a href="https://www.linkedin.com/in/sharathrao1/">Sharath Rao</a> (CMU MS → PlayStation) Back-channel prediction in dyadic conversations.
+  </td>
+  <td class='col-md-1' style='text-align:right;'></td>
+</tr>
+<tr>
+  <td>
+        Qingtao Hu (CMU MS → Amazon): Unsupervised disentanglement of style and content in images.
+  </td>
+  <td class='col-md-1' style='text-align:right;'></td>
+</tr>
+<tr>
+  <td>
+        Anirudha Rayasam (CMU MS → Google): Language grounded pose forecasting.
+  </td>
+  <td class='col-md-1' style='text-align:right;'></td>
 </tr>
 </table>
 
@@ -404,52 +502,5 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
       CMU Graduate Student Association Representative for Language Technologies Institute
   <td class='col-md-2' style='text-align:right;'>2017</td>
   </td>
-</tr>
-</table>
-
-
-## <i class="fa fa-chevron-right"></i> Student Mentorship
-<table class="table table-hover">
-<tr>
-  <td>
-        <a href="https://www.linkedin.com/in/don-dong-won-lee-ab964b172/">Dong Won Lee</a> (CMU BS → CMU MS in Machine Learning): Self-supervised generative models.
-  </td>
-  <td class='col-md-1' style='text-align:right;'></td>
-</tr>
-<tr>
-  <td>
-        <a href="https://web.iiit.ac.in/~shradha.sehgal/">Shradha Sehgal</a> (IIIT Hyderabad B.Tech.): Evaluation of generative models.
-  </td>
-  <td class='col-md-1' style='text-align:right;'></td>
-</tr>
-<tr>
-  <td>
-        Arvin Wu (CMU BS): Social intelligence benchmarking.
-  </td>
-  <td class='col-md-1' style='text-align:right;'></td>
-</tr>
-<tr>
-  <td>
-        <a href="https://www.linkedin.com/in/nikithamurikinati/">Nikitha Murikinati</a> (CMU BS): Study of relationships between co-speech gestures and prosody.
-  </td>
-  <td class='col-md-1' style='text-align:right;'></td>
-</tr>
-<tr>
-  <td>
-        <a href="https://www.linkedin.com/in/sharathrao1/">Sharath Rao</a> (CMU MS → PlayStation) Back-channel prediction in dyadic conversations.
-  </td>
-  <td class='col-md-1' style='text-align:right;'></td>
-</tr>
-<tr>
-  <td>
-        Qingtao Hu (CMU MS → Amazon): Unsupervised disentanglement of style and content in images.
-  </td>
-  <td class='col-md-1' style='text-align:right;'></td>
-</tr>
-<tr>
-  <td>
-        Anirudha Rayasam (CMU MS → Google): Language grounded pose forecasting.
-  </td>
-  <td class='col-md-1' style='text-align:right;'></td>
 </tr>
 </table>
