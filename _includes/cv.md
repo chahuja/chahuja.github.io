@@ -304,13 +304,13 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
 <table class="table table-hover">
 
 <tr>
-<td class="col-md-3"><a href='https://chahuja.com/pats' target='_blank'><img src="pics/publications/ahuja2020pats.png"/></a> </td>
+<td class="col-md-3"><img src="pics/publications/ahuja2020pats.png"/></td>
 <td>
     <strong>1. PATS Dataset: Pose, Audio, Transcripts and Style</strong><br>
     <strong>C. Ahuja</strong>, D. Lee, Y. Nakano, and L. Morency<br>
      <br>
     
-     <a href='https://chahuja.com/pats' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='https://chahuja.com/pats' target='_blank'><button type='button' class='btn btn-success'>webpage</button></a> <br>
+     <a href='https://chahuja.com/pats' target='_blank'><button type='button' class='btn btn-success'>webpage</button></a> <br>
     
 </td>
 </tr>
