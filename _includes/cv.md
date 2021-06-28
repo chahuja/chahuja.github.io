@@ -69,13 +69,13 @@ I am a final year PhD candidate at the Language Technologies Institute at <b>Car
 <table class="table table-hover">
 
 <tr>
-<td class="col-md-3"><img src="pics/publications/baltruvsaitis2018challenges.png"/></td>
+<td class="col-md-3"><a href='https://dl.acm.org/doi/abs/10.1145/3107990.3107993' target='_blank'><img src="pics/publications/baltruvsaitis2018challenges.png"/></a> </td>
 <td>
     <strong>1. Challenges and applications in multimodal machine learning</strong><br>
     T. Baltrusaitis, <strong>C. Ahuja</strong>, and L. Morency<br>
     The Handbook of Multimodal-Multisensor Interfaces 2018<br>
     
-    <br>
+     <a href='https://dl.acm.org/doi/abs/10.1145/3107990.3107993' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
     
 </td>
 </tr>
