@@ -5,7 +5,7 @@ I am a final year PhD candidate at the Language Technologies Institute at <b>Car
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>May 2020</td>
-  <td>We are organizing the <b>First Workshop on Crossmodal Social Animation</b> at <a href="http://iccv2021.thecvf.com/">ICCV2021</a>. Consider submissing your work. <a href="http://sites.google.com/view/xs-anim" target="_blank"><button type="button" class="btn btn-success">webpage</button></a></td>
+  <td>We are organizing the <b>First Workshop on Crossmodal Social Animation</b> at <a href="http://iccv2021.thecvf.com/">ICCV2021</a>. Consider submitting your work. <a href="http://sites.google.com/view/xs-anim" target="_blank"><button type="button" class="btn btn-success">webpage</button></a></td>
 </tr>
 <tr>
   <td class='col-md-3'>December 2020</td>
