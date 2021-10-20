@@ -64,17 +64,3 @@ div.video-hover:hover{
 .video.video-hover {
   margin-top: 3em;
 }
-
-.table>tbody>tr>td {
-    vertical-align: middle;
-}
-
-@media (min-width: 767px)
-.col-md-3 {
-  width: 25%;
-}
-
-@media (max-width: 767px)
-.idxIcons {
-  width: auto;
-}
