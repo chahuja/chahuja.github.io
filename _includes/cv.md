@@ -1,33 +1,49 @@
-I am a final year PhD candidate at the Language Technologies Institute at <b>Carnegie Mellon University</b>. I am advised by [Dr. Louis-Philippe Morency (LP)](https://www.cs.cmu.edu/~morency/) in the [Multicomp Lab](http://multicomp.cs.cmu.edu/). My research focuses on endowing agents and remote avatars with <b>Social Intelligence</b> by means of <b>Multimodal Learning</b>. One of the use-cases where we extensively apply these technologies is <b>Computer Animation</b>. These directions have the potential of making a meaningful impact on remote communication, collaborations, education and mental health for human-human and human-robot interaction, especially now when a lot of social and work spaces are gradually moving online. <br> <br> In the past, I have interned at Facebook Reality Labs on generation of nonverbal behaviours for a communicating avatar. As an undergraduate researcher at <b>Indian Institute of Technology(IIT), Kanpur</b>, I worked with [Dr. Rajesh Hegde](http://home.iitk.ac.in/~rhegde/) on <b>Spatial Audio</b> and <b>Speaker Diarization</b>, and [Dr. Vinay Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) on <b>Video Summarization</b>
+I am a Reasearch Scientist at Meta AI working on Human-Centric Multimodal Machine Learning and Generative Modeling. Prior to that I completed my PhD at the Language Technologies Institute at <b>Carnegie Mellon University</b> where I was advised by [Dr. Louis-Philippe Morency (LP)](https://www.cs.cmu.edu/~morency/) in the [Multicomp Lab](http://multicomp.cs.cmu.edu/). My research focused on endowing agents and remote avatars with <b>Social Intelligence</b> by means of <b>Multimodal Learning</b>. One of the use-cases where we extensively apply these technologies is <b>Computer Animation</b>. These directions have the potential of making a meaningful impact on remote communication, collaborations, education and mental health for human-human and human-robot interaction, especially now when a lot of social and work spaces are gradually moving online. <br> <br> In the past, I have also interned at Facebook Reality Labs on generation of nonverbal behaviours for a communicating avatar. As an undergraduate researcher at <b>Indian Institute of Technology(IIT), Kanpur</b>, I worked with [Dr. Rajesh Hegde](http://home.iitk.ac.in/~rhegde/) on <b>Spatial Audio</b> and <b>Speaker Diarization</b>, and [Dr. Vinay Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) on <b>Video Summarization</b>
 
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>May 2022</td>
+  <td>Excited to join Meta AI as a Research Scientist</td>
+</tr>
+<tr>
+  <td class='col-md-3'>April 2022</td>
+  <td>Defended my PhD dissertation on <b>Communication Beyond Words: Grounding Visual Body Motion with Language</b> <a href="https://chahuja.com/files/chaitanya_ahuja_phd_thesis.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
+</tr>
+<tr>
+  <td class='col-md-3'>April 2022</td>
+  <td>Humbled to be a Highlighted Reviewer at ICLR 2022</td>
+</tr>
+<tr>
+  <td class='col-md-3'>March 2022</td>
+  <td>Paper on Low-Resource Adaptation of Spatio-Temporal Crossmodal Generative Models accepted at CVPR 2022</td>
+</tr>
+<tr>
   <td class='col-md-3'>May 2020</td>
-  <td>We are organizing the <b>First Workshop on Crossmodal Social Animation</b> at <a href="http://iccv2021.thecvf.com/">ICCV2021</a>. Consider submitting your work. <a href="http://sites.google.com/view/xs-anim" target="_blank"><button type="button" class="btn btn-success">webpage</button></a></td>
-</tr>
-<tr>
-  <td class='col-md-3'>December 2020</td>
-  <td>Succesfully proposed my thesis titled <b>Communication Beyond Words: Grounding Visual Body Motion with Language</b> <a href="https://drive.google.com/open?id=1lrk5J4vJjBirAyZMOK6pbozGkB4DKebO&authuser=cahuja%40andrew.cmu.edu&usp=drive_fs" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
-</tr>
-<tr>
-  <td class='col-md-3'>September 2020</td>
-  <td>Paper on Co-Speech Gesture Generation from Language accepted at Findings at EMNLP 2020</td>
-</tr>
-<tr>
-  <td class='col-md-3'>September 2020</td>
-  <td>Paper on Impact of Personality on Non-verbal behvaiours accepted at IVA 2020</td>
-</tr>
-<tr>
-  <td class='col-md-3'>August 2020</td>
-  <td>PATS (Pose-Audio-Transcripts-Style) Dataset released. <a href="http://chahuja.com/pats" target="_blank"><button type="button" class="btn btn-success">webpage</button></a></td>
+  <td>We are organizing the <b>First Workshop on Crossmodal Social Animation</b> at <a href="http://iccv2021.thecvf.com/">ICCV2021</a>. Consider submissing your work. <a href="http://sites.google.com/view/xs-anim" target="_blank"><button type="button" class="btn btn-success">webpage</button></a></td>
 </tr>
 </table>
 
 <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo" onclick="change()" id="more">More</button>
 <div id="demo" class="collapse">
 <table class="table table-hover">
+      <tr>
+	    <td class='col-md-3'>December 2020</td>
+	    <td>Succesfully proposed my thesis titled <b>Communication Beyond Words: Grounding Visual Body Motion with Language</b> <a href="https://drive.google.com/open?id=1lrk5J4vJjBirAyZMOK6pbozGkB4DKebO&authuser=cahuja%40andrew.cmu.edu&usp=drive_fs" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
+	  </tr>	  
+      <tr>
+	    <td class='col-md-3'>September 2020</td>
+	    <td>Paper on Co-Speech Gesture Generation from Language accepted at Findings at EMNLP 2020</td>
+	  </tr>	  
+      <tr>
+	    <td class='col-md-3'>September 2020</td>
+	    <td>Paper on Impact of Personality on Non-verbal behvaiours accepted at IVA 2020</td>
+	  </tr>	  
+      <tr>
+	    <td class='col-md-3'>August 2020</td>
+	    <td>PATS (Pose-Audio-Transcripts-Style) Dataset released. <a href="http://chahuja.com/pats" target="_blank"><button type="button" class="btn btn-success">webpage</button></a></td>
+	  </tr>	  
       <tr>
 	    <td class='col-md-3'>August 2020</td>
 	    <td>Code for Style Transfer for Co-Speech Gesture Animation released. <a href="https://github.com/chahuja/mix-stage" target="_blank"><button type="button" class="btn btn-info">code</button></a></td>
@@ -89,27 +105,20 @@ I am a final year PhD candidate at the Language Technologies Institute at <b>Car
 <table class="table table-hover">
 
 <tr>
-<td class="col-md-3"><img src="pics/publications/ahuja2021low.png"/></td>
+<td class="col-md-3"><a href='https://arxiv.org/pdf/2208.08080.pdf' target='_blank'><img src="pics/publications/lee2022multimodal.png"/></a> </td>
 <td>
-    <strong>2. Low-Resource Adaptation of Spatio-Temporal Crossmodal Generative Models</strong><br>
-    <strong>C. Ahuja</strong>, D. Lee, and L. Morency<br>
-    Coming Soon <br>
+    <strong>1. Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides</strong><br>
+    D. Lee, <strong>C. Ahuja</strong>, P. Liang, S. Natu, and L. Morency<br>
+    Preprint 2022 2022<br>
     
-    <br>
+     
+<a href='javascript: none'
+    onclick='$("#abs_lee2022multimodal").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://arxiv.org/pdf/2208.08080.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='https://github.com/dondongwon/MLPDataset' target='_blank'><button type='button' class='btn btn-info'>code</button></a> <br>
     
-</td>
-</tr>
+<div id="abs_lee2022multimodal" style="text-align: justify; display: none" markdown="1">
+Lecture slide presentations, a sequence of pages that contain text and figures accompanied by speech, are constructed and presented carefully in order to optimally transfer knowledge to students. Previous studies in multimedia and psychology attribute the effectiveness of lecture presentations to their multimodal nature. As a step toward developing AI to aid in student learning as intelligent teacher assistants, we introduce the Multimodal Lecture Presentations dataset as a large-scale benchmark testing the capabilities of machine learning models in multimodal understanding of educational content. Our dataset contains aligned slides and spoken language, for 180+ hours of video and 9000+ slides, with 10 lecturers from various subjects (e.g., computer science, dentistry, biology). We introduce two research tasks which are designed as stepping stones towards AI agents that can explain (automatically captioning a lecture presentation) and illustrate (synthesizing visual figures to accompany spoken explanations) educational content. We provide manual annotations to help implement these two research tasks and evaluate stateof-the-art models on them. Comparing baselines and human student performances, we find that current models struggle in (1) weak crossmodal alignment between slides and spoken text, (2) learning novel visual mediums, (3) technical language, and (4) long-range sequences. Towards addressing this issue, we also introduce PolyViLT, a multimodal transformer trained with a multi-instance learning loss that is more effective than current approaches. We conclude by shedding light on the challenges and opportunities in multimodal understanding of educational presentations.
+</div>
 
-
-<tr>
-<td class="col-md-3"><img src="pics/publications/lee2021crossmodal.png"/></td>
-<td>
-    <strong>1. Crossmodal clustered contrastive learning: Grounding of spoken language to gestures</strong><br>
-    D. Lee, <strong>C. Ahuja</strong>, and L. Morency<br>
-    Coming Soon <br>
-    
-    <br>
-    
 </td>
 </tr>
 
@@ -124,6 +133,44 @@ I am a final year PhD candidate at the Language Technologies Institute at <b>Car
 </a>
 
 <table class="table table-hover">
+
+<tr>
+<td class="col-md-3"><a href='https://chahuja.com/files/chaitanya_ahuja_phd_thesis.pdf' target='_blank'><img src="pics/publications/ahuja2022communication.png"/></a> </td>
+<td>
+    <strong>11. Communication Beyond Words: Grounding Visual Body Motion with Language</strong><br>
+    <strong>C. Ahuja</strong><br>
+    PhD dissertation, Carnegie Mellon University, 2022 2022<br>
+    
+     
+<a href='javascript: none'
+    onclick='$("#abs_ahuja2022communication").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://chahuja.com/files/chaitanya_ahuja_phd_thesis.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
+    
+<div id="abs_ahuja2022communication" style="text-align: justify; display: none" markdown="1">
+The central theme of this thesis is to understand the two-way relationship (a.k.a. grounding) between human body motions and its associated spoken language, which includes both verbal and vocal cues. Understanding this complex relationship will help us to both better understand the meaning intended by body gestures and provide us with the knowledge necessary to generate more realistic nonverbal body animations with interactive technologies. With these motivations in mind, we propose three key challenges: (1) Nonverbal Grounding as the core component of this thesis to study the close relationship between spoken language and motion, (2) Personalization to better understand idiosyncrasies and commonalities on how people gesture, and (3) Low Resource Learning when gestures occur infrequently or the amount of labeled data is limited and often unbalanced. These challenges investigate the commonalities, uniqueness and generalizability of visual body communication respectively in the presence of verbal and vocal information
+</div>
+
+</td>
+</tr>
+
+
+<tr>
+<td class="col-md-3"><a href='https://openaccess.thecvf.com/content/CVPR2022/papers/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.pdf' target='_blank'><img src="pics/publications/ahuja2021low.png"/></a> </td>
+<td>
+    <strong>10. Low-Resource Adaptation of Spatio-Temporal Crossmodal Generative Models</strong><br>
+    <strong>C. Ahuja</strong>, D. Lee, and L. Morency<br>
+    CVPR 2022 2022<br>
+    
+     
+<a href='javascript: none'
+    onclick='$("#abs_ahuja2021low").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://openaccess.thecvf.com/content/CVPR2022/papers/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='https://chahuja.com/diffgan' target='_blank'><button type='button' class='btn btn-info'>code</button></a> <br>
+    
+<div id="abs_ahuja2021low" style="text-align: justify; display: none" markdown="1">
+Personalizing an avatar for co-speech gesture generation from spoken language requires learning the idiosyncrasies of a person’s gesture style from a small amount of data. Previous methods in gesture generation require large amounts of data for each speaker, which is often infeasible. We propose an approach, named DiffGAN, that efficiently personalizes co-speech gesture generation models of a high-resource source speaker to target speaker with just 2 minutes of target training data. A unique characteristic of DiffGAN is its ability to account for the crossmodal grounding shift, while also addressing the distribution shift in the output domain. We substantiate the effectiveness of our approach a large scale publicly available dataset through quantitative, qualitative and user studies, which show that our proposed methodology significantly outperforms prior approaches for low-resource adaptation of gesture generation. Code and videos can be found at https://chahuja.com/diffgan.
+</div>
+
+</td>
+</tr>
+
 
 <tr>
 <td class="col-md-3"><a href='https://www.aclweb.org/anthology/2020.findings-emnlp.170.pdf' target='_blank'><img src="pics/publications/ahuja2020no.png"/></a> </td>
@@ -325,15 +372,15 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
   <tr>
     <td>
         <strong>Ph.D. in Language Technologies</strong>
-          (3.97/4.00)
+          (4.02/4.00)
         <br>
       Carnegie Mellon University | Pittsburgh, PA
         <p style='margin-top:-1em;margin-bottom:0em' markdown='1'>
-        <br> Thesis Proposal: <a href='https://drive.google.com/open?id=1lrk5J4vJjBirAyZMOK6pbozGkB4DKebO&authuser=cahuja%40andrew.cmu.edu&usp=drive_fs'>Communication Beyond Words: Grounding Visual Body Motion with Language</a>
+        <br> Thesis: <a href='https://chahuja.com/files/chaitanya_ahuja_phd_thesis.pdf'>Communication Beyond Words: Grounding Visual Body Motion with Language</a>
         <br> Advisor: <a href='https://www.cs.cmu.edu/~morency/'>Louis-Philippe Morency</a>
         </p>
     </td>
-    <td class="col-md-2" style='text-align:right;'>2015 - 2021 (Expected)</td>
+    <td class="col-md-2" style='text-align:right;'>2015 - 2022</td>
   </tr>
   <tr>
     <td>
