@@ -4,6 +4,10 @@ I am a Reasearch Scientist at Meta AI working on Human-Centric Multimodal Machin
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>Feb 2023</td>
+  <td>Survey paper on Co-Speech Gestures accepted in the STAR track at Eurographics 2023. <a href="https://arxiv.org/abs/2301.05339" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
+</tr>
+<tr>
   <td class='col-md-3'>May 2022</td>
   <td>Excited to join Meta AI as a Research Scientist</td>
 </tr>
@@ -19,15 +23,15 @@ I am a Reasearch Scientist at Meta AI working on Human-Centric Multimodal Machin
   <td class='col-md-3'>March 2022</td>
   <td>Paper on Low-Resource Adaptation of Spatio-Temporal Crossmodal Generative Models accepted at CVPR 2022</td>
 </tr>
-<tr>
-  <td class='col-md-3'>May 2020</td>
-  <td>We are organizing the <b>First Workshop on Crossmodal Social Animation</b> at <a href="http://iccv2021.thecvf.com/">ICCV2021</a>. Consider submissing your work. <a href="http://sites.google.com/view/xs-anim" target="_blank"><button type="button" class="btn btn-success">webpage</button></a></td>
-</tr>
 </table>
 
 <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo" onclick="change()" id="more">More</button>
 <div id="demo" class="collapse">
 <table class="table table-hover">
+      <tr>
+	    <td class='col-md-3'>May 2020</td>
+	    <td>We are organizing the <b>First Workshop on Crossmodal Social Animation</b> at <a href="http://iccv2021.thecvf.com/">ICCV2021</a>. Consider submissing your work. <a href="http://sites.google.com/view/xs-anim" target="_blank"><button type="button" class="btn btn-success">webpage</button></a></td>
+	  </tr>	  
       <tr>
 	    <td class='col-md-3'>December 2020</td>
 	    <td>Succesfully proposed my thesis titled <b>Communication Beyond Words: Grounding Visual Body Motion with Language</b> <a href="https://drive.google.com/open?id=1lrk5J4vJjBirAyZMOK6pbozGkB4DKebO&authuser=cahuja%40andrew.cmu.edu&usp=drive_fs" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
@@ -105,6 +109,25 @@ I am a Reasearch Scientist at Meta AI working on Human-Centric Multimodal Machin
 <table class="table table-hover">
 
 <tr>
+<td class="col-md-3"><img src="pics/publications/ahuja2023continual.png"/></td>
+<td>
+    <strong>2. Continual Learning for Personalized Co-speech Gesture Generation</strong><br>
+    <strong>C. Ahuja</strong>, P. Joshi, R. Ishii, and L. Morency<br>
+    Preprint 2023 2023<br>
+    
+     
+<a href='javascript: none'
+    onclick='$("#abs_ahuja2023continual").toggle()'><button type='button' class='btn btn-danger'>abs</button></a><br>
+    
+<div id="abs_ahuja2023continual" style="text-align: justify; display: none" markdown="1">
+Co-speech gestures are a key channel of human communication, making them important for personalized chat agents to generate. In the past, gesture generation models assumed that data for each speaker is available all at once, and in large amounts. However in practical scenarios, speaker data comes sequentially and in small amounts as the agent personalizes with more speakers, akin to a continual learning paradigm. While more recent works have shown progress in adapting to low-resource data, they catastrophically forget the gesture styles of initial speakers they were trained on. Also, prior generative continual learning works are not multimodal, making this space less studied. In this paper, we explore this new paradigm and propose C-DiffGAN: an approach that continually learns new speaker gesture styles with only a few minutes of per-speaker data, while retaining previously learnt styles. Inspired by prior continual learning works, C-DiffGAN encourages knowledge retention by 1) generating reminiscences of previous low-resource speaker data, then 2) crossmodally aligning to them to mitigate catastrophic forgetting. We quantitatively demonstrate improved performance and reduced forgetting over strong baselines through standard continual learning measures, reinforced by a qualitative user study that shows that our method produces more natural, style-preserving gestures.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
 <td class="col-md-3"><a href='https://arxiv.org/pdf/2208.08080.pdf' target='_blank'><img src="pics/publications/lee2022multimodal.png"/></a> </td>
 <td>
     <strong>1. Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides</strong><br>
@@ -133,6 +156,25 @@ Lecture slide presentations, a sequence of pages that contain text and figures a
 </a>
 
 <table class="table table-hover">
+
+<tr>
+<td class="col-md-3"><a href='https://arxiv.org/abs/2301.05339' target='_blank'><img src="pics/publications/nyatsanga2023communication.png"/></a> </td>
+<td>
+    <strong>12. Communication Beyond Words: Grounding Visual Body Motion with Language</strong><br>
+    S. Nyatsanga, T. Kucherenko, <strong>C. Ahuja</strong>, G. Henter, and M. Neff<br>
+    EUROGRAPHICS, 2023 2023<br>
+    
+     
+<a href='javascript: none'
+    onclick='$("#abs_nyatsanga2023communication").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://arxiv.org/abs/2301.05339' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
+    
+<div id="abs_nyatsanga2023communication" style="text-align: justify; display: none" markdown="1">
+Gestures that accompany speech are an essential part of natural and efficient embodied human communication. The automatic generation of such co-speech gestures is a long-standing problem in computer animation and is considered an enabling technology in film, games, virtual social spaces, and for interaction with social robots. The problem is made challenging by the idiosyncratic and non-periodic nature of human co-speech gesture motion, and by the great diversity of communicative functions that gestures encompass. Gesture generation has seen surging interest recently, owing to the emergence of more and larger datasets of human gesture motion, combined with strides in deep-learning-based generative models, that benefit from the growing availability of data. This review article summarizes co-speech gesture generation research, with a particular focus on deep generative models. First, we articulate the theory describing human gesticulation and how it complements speech. Next, we briefly discuss rule-based and classical statistical gesture synthesis, before delving into deep learning approaches. We employ the choice of input modalities as an organizing principle, examining systems that generate gestures from audio, text, and non-linguistic input. We also chronicle the evolution of the related training data sets in terms of size, diversity, motion quality, and collection method. Finally, we identify key research challenges in gesture generation, including data availability and quality; producing human-like motion; grounding the gesture in the co-occurring speech in interaction with other speakers, and in the environment; performing gesture evaluation; and integration of gesture synthesis into applications. We highlight recent approaches to tackling the various key challenges, as well as the limitations of these approaches, and point toward areas of future development.
+</div>
+
+</td>
+</tr>
+
 
 <tr>
 <td class="col-md-3"><a href='https://chahuja.com/files/chaitanya_ahuja_phd_thesis.pdf' target='_blank'><img src="pics/publications/ahuja2022communication.png"/></a> </td>
@@ -216,7 +258,7 @@ To realize natural-looking virtual agents, one key technical challenge is to aut
     <strong>7. Style Transfer for Co-Speech Gesture Animation: A Multi-Speaker Conditional Mixture Approach</strong><br>
     <strong>C. Ahuja</strong>, D. Lee, Y. Nakano, and L. Morency<br>
     ECCV 2020<br>
-    Media Coverage: <a style="color:#cc0000;" href="https://techxplore.com/news/2020-08-mix-stage-gestures-accompany-virtual-agent.html">TechXplore</a> <br>
+    
      
 <a href='javascript: none'
     onclick='$("#abs_ahuja2020style").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://arxiv.org/abs/2007.12553' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='http://chahuja.com/mix-stage' target='_blank'><button type='button' class='btn btn-success'>webpage</button></a> <br>
@@ -254,7 +296,7 @@ Non verbal behaviours such as gestures, facial expressions, body posture, and pa
     <strong>5. Language2Pose: Natural Language Grounded Pose Forecasting</strong><br>
     <strong>C. Ahuja</strong> and L. Morency<br>
     3DV 2019<br>
-    Media Coverage: <a style="color:#cc0000;" href="https://www.scientificamerican.com/article/drenchable-drones-prickly-cells-and-face-tracked-chimps-science-gifs-to-start-your-week/">Scientific American</a>, <a style="color:#cc0000;" href="https://medium.com/syncedreview/cmu-creates-language2pose-model-that-generates-animations-from-text-5a08b5f71e97">Synced</a>, <a style="color:#cc0000;" href="https://venturebeat.com/2019/09/11/ai-researchers-translate-language-into-physical-movement/">Venture Beat</a> <br>
+    
      
 <a href='javascript: none'
     onclick='$("#abs_ahuja2019language").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://arxiv.org/pdf/1907.01108.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='https://github.com/chahuja/language2pose' target='_blank'><button type='button' class='btn btn-info'>code</button></a>  <a href='http://chahuja.com/language2pose' target='_blank'><button type='button' class='btn btn-success'>webpage</button></a> <br>
@@ -418,8 +460,6 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
 <tr>
   <td>
         <b><a href="https://www.youtube.com/embed/L7ZGHmMJLCc">Style Transfer for Co-speech Gesture Generation</a></b>
-	
-      <br> ECCV 2020, Online
   </td>
   <td class='col-md-2' style='text-align:right;'>September 2020</td>
 </tr>
