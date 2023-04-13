@@ -113,7 +113,7 @@ I am a Reasearch Scientist at Meta AI working on Human-Centric Multimodal Machin
 <td>
     <strong>2. Continual Learning for Personalized Co-speech Gesture Generation</strong><br>
     <strong>C. Ahuja</strong>, P. Joshi, R. Ishii, and L. Morency<br>
-    Preprint 2023 2023<br>
+    Preprint 2023<br>
     
      
 <a href='javascript: none'
@@ -132,7 +132,7 @@ Co-speech gestures are a key channel of human communication, making them importa
 <td>
     <strong>1. Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides</strong><br>
     D. Lee, <strong>C. Ahuja</strong>, P. Liang, S. Natu, and L. Morency<br>
-    Preprint 2022 2022<br>
+    Preprint 2022<br>
     
      
 <a href='javascript: none'
@@ -162,7 +162,7 @@ Lecture slide presentations, a sequence of pages that contain text and figures a
 <td>
     <strong>12. Communication Beyond Words: Grounding Visual Body Motion with Language</strong><br>
     S. Nyatsanga, T. Kucherenko, <strong>C. Ahuja</strong>, G. Henter, and M. Neff<br>
-    EUROGRAPHICS, 2023 2023<br>
+    EUROGRAPHICS 2023<br>
     
      
 <a href='javascript: none'
@@ -181,7 +181,7 @@ Gestures that accompany speech are an essential part of natural and efficient em
 <td>
     <strong>11. Communication Beyond Words: Grounding Visual Body Motion with Language</strong><br>
     <strong>C. Ahuja</strong><br>
-    PhD dissertation, Carnegie Mellon University, 2022 2022<br>
+    PhD dissertation, Carnegie Mellon University 2022<br>
     
      
 <a href='javascript: none'
@@ -200,7 +200,7 @@ The central theme of this thesis is to understand the two-way relationship (a.k.
 <td>
     <strong>10. Low-Resource Adaptation of Spatio-Temporal Crossmodal Generative Models</strong><br>
     <strong>C. Ahuja</strong>, D. Lee, and L. Morency<br>
-    CVPR 2022 2022<br>
+    CVPR 2022<br>
     
      
 <a href='javascript: none'
