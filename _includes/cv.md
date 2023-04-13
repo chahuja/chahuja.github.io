@@ -160,7 +160,7 @@ Lecture slide presentations, a sequence of pages that contain text and figures a
 <tr>
 <td class="col-md-3"><a href='https://arxiv.org/abs/2301.05339' target='_blank'><img src="pics/publications/nyatsanga2023communication.png"/></a> </td>
 <td>
-    <strong>12. Communication Beyond Words: Grounding Visual Body Motion with Language</strong><br>
+    <strong>12. A Comprehensive Review of Data-Driven Co-Speech Gesture Generation</strong><br>
     S. Nyatsanga, T. Kucherenko, <strong>C. Ahuja</strong>, G. Henter, and M. Neff<br>
     EUROGRAPHICS 2023<br>
     
