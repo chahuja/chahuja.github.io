@@ -104,20 +104,24 @@ I am a Reasearch Scientist at Meta AI working on Human-Centric Multimodal Machin
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Pre-prints
+## <i class="fa fa-chevron-right"></i> Selected Publications
+
+<a href="https://scholar.google.com/citations?user=CX8zqPoAAAAJ&hl" class="btn btn-primary" style="padding: 0.3em;">
+  <i class="ai ai-google-scholar"></i> Google Scholar
+</a>
 
 <table class="table table-hover">
 
 <tr>
-<td class="col-md-3"><img src="pics/publications/ahuja2023continual.png"/></td>
+<td class="col-md-3"><a href='https://bit.ly/cdiffgan' target='_blank'><img src="pics/publications/ahuja2023continual.png"/></a> </td>
 <td>
-    <strong>2. Continual Learning for Personalized Co-speech Gesture Generation</strong><br>
+    <strong>14. Continual Learning for Personalized Co-speech Gesture Generation</strong><br>
     <strong>C. Ahuja</strong>, P. Joshi, R. Ishii, and L. Morency<br>
-    Preprint 2023<br>
+    ICCV 2023 2023<br>
     
      
 <a href='javascript: none'
-    onclick='$("#abs_ahuja2023continual").toggle()'><button type='button' class='btn btn-danger'>abs</button></a><br>
+    onclick='$("#abs_ahuja2023continual").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://bit.ly/cdiffgan' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='https://chahuja.com/cdiffgan/' target='_blank'><button type='button' class='btn btn-success'>webpage</button></a> <br>
     
 <div id="abs_ahuja2023continual" style="text-align: justify; display: none" markdown="1">
 Co-speech gestures are a key channel of human communication, making them important for personalized chat agents to generate. In the past, gesture generation models assumed that data for each speaker is available all at once, and in large amounts. However in practical scenarios, speaker data comes sequentially and in small amounts as the agent personalizes with more speakers, akin to a continual learning paradigm. While more recent works have shown progress in adapting to low-resource data, they catastrophically forget the gesture styles of initial speakers they were trained on. Also, prior generative continual learning works are not multimodal, making this space less studied. In this paper, we explore this new paradigm and propose C-DiffGAN: an approach that continually learns new speaker gesture styles with only a few minutes of per-speaker data, while retaining previously learnt styles. Inspired by prior continual learning works, C-DiffGAN encourages knowledge retention by 1) generating reminiscences of previous low-resource speaker data, then 2) crossmodally aligning to them to mitigate catastrophic forgetting. We quantitatively demonstrate improved performance and reduced forgetting over strong baselines through standard continual learning measures, reinforced by a qualitative user study that shows that our method produces more natural, style-preserving gestures.
@@ -130,9 +134,9 @@ Co-speech gestures are a key channel of human communication, making them importa
 <tr>
 <td class="col-md-3"><a href='https://arxiv.org/pdf/2208.08080.pdf' target='_blank'><img src="pics/publications/lee2022multimodal.png"/></a> </td>
 <td>
-    <strong>1. Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides</strong><br>
+    <strong>13. Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides</strong><br>
     D. Lee, <strong>C. Ahuja</strong>, P. Liang, S. Natu, and L. Morency<br>
-    Preprint 2022<br>
+    ICCV 2023 2022<br>
     
      
 <a href='javascript: none'
@@ -145,17 +149,6 @@ Lecture slide presentations, a sequence of pages that contain text and figures a
 </td>
 </tr>
 
-
-</table>
-
-
-## <i class="fa fa-chevron-right"></i> Selected Publications
-
-<a href="https://scholar.google.com/citations?user=CX8zqPoAAAAJ&hl" class="btn btn-primary" style="padding: 0.3em;">
-  <i class="ai ai-google-scholar"></i> Google Scholar
-</a>
-
-<table class="table table-hover">
 
 <tr>
 <td class="col-md-3"><a href='https://arxiv.org/abs/2301.05339' target='_blank'><img src="pics/publications/nyatsanga2023communication.png"/></a> </td>
