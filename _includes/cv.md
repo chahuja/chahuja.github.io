@@ -117,7 +117,7 @@ I am a Reasearch Scientist at Meta AI working on Human-Centric Multimodal Machin
 <td>
     <strong>14. Continual Learning for Personalized Co-speech Gesture Generation</strong><br>
     <strong>C. Ahuja</strong>, P. Joshi, R. Ishii, and L. Morency<br>
-    ICCV 2023 2023<br>
+    ICCV 2023<br>
     
      
 <a href='javascript: none'
@@ -136,7 +136,7 @@ Co-speech gestures are a key channel of human communication, making them importa
 <td>
     <strong>13. Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides</strong><br>
     D. Lee, <strong>C. Ahuja</strong>, P. Liang, S. Natu, and L. Morency<br>
-    ICCV 2023 2022<br>
+    ICCV 2023<br>
     
      
 <a href='javascript: none'
