@@ -4,6 +4,14 @@ I am a Reasearch Scientist at Meta AI working on Human-Centric Multimodal Machin
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>March 2025</td>
+  <td>Preprint on a Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning out on arXiv</td>
+</tr>
+<tr>
+  <td class='col-md-3'>March 2025</td>
+  <td>Paper on Multi-Modal Large Language Models as Effective Vision Learners accepted at WACV 2025</td>
+</tr>
+<tr>
   <td class='col-md-3'>Feb 2023</td>
   <td>Survey paper on Co-Speech Gestures accepted in the STAR track at Eurographics 2023. <a href="https://arxiv.org/abs/2301.05339" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
 </tr>
@@ -15,19 +23,19 @@ I am a Reasearch Scientist at Meta AI working on Human-Centric Multimodal Machin
   <td class='col-md-3'>April 2022</td>
   <td>Defended my PhD dissertation on <b>Communication Beyond Words: Grounding Visual Body Motion with Language</b> <a href="https://chahuja.com/files/chaitanya_ahuja_phd_thesis.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
 </tr>
-<tr>
-  <td class='col-md-3'>April 2022</td>
-  <td>Humbled to be a Highlighted Reviewer at ICLR 2022</td>
-</tr>
-<tr>
-  <td class='col-md-3'>March 2022</td>
-  <td>Paper on Low-Resource Adaptation of Spatio-Temporal Crossmodal Generative Models accepted at CVPR 2022</td>
-</tr>
 </table>
 
 <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo" onclick="change()" id="more">More</button>
 <div id="demo" class="collapse">
 <table class="table table-hover">
+      <tr>
+	    <td class='col-md-3'>April 2022</td>
+	    <td>Humbled to be a Highlighted Reviewer at ICLR 2022</td>
+	  </tr>	  
+      <tr>
+	    <td class='col-md-3'>March 2022</td>
+	    <td>Paper on Low-Resource Adaptation of Spatio-Temporal Crossmodal Generative Models accepted at CVPR 2022</td>
+	  </tr>	  
       <tr>
 	    <td class='col-md-3'>May 2020</td>
 	    <td>We are organizing the <b>First Workshop on Crossmodal Social Animation</b> at <a href="http://iccv2021.thecvf.com/">ICCV2021</a>. Consider submissing your work. <a href="http://sites.google.com/view/xs-anim" target="_blank"><button type="button" class="btn btn-success">webpage</button></a></td>
@@ -104,6 +112,32 @@ I am a Reasearch Scientist at Meta AI working on Human-Centric Multimodal Machin
 </table>
 
 
+## <i class="fa fa-chevron-right"></i> Pre-prints
+
+<table class="table table-hover">
+
+<tr>
+<td class="col-md-3"><a href='https://arxiv.org/pdf/2503.00897v1' target='_blank'><img src="pics/publications/gupta2025a.png"/></a> </td>
+<td>
+    <strong>1. A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning</strong><br>
+    S. Gupta, <strong>C. Ahuja</strong>, T. Lin, S. Roy, H. Oosterhuis, M. de Rijke, and S. Shukla<br>
+    Preprint 2025<br>
+    
+     
+<a href='javascript: none'
+    onclick='$("#abs_gupta2025a").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://arxiv.org/pdf/2503.00897v1' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
+    
+<div id="abs_gupta2025a" style="text-align: justify; display: none" markdown="1">
+Reinforcement learning (RL) based fine-tuning has emerged as a powerful approach for aligning diffusion models with black-box objectives. Proximal policy optimization (PPO) is the most popular choice of method for policy optimization. While effective in terms of performance, PPO is highly sensitive to hyper-parameters and involves substantial computational overhead. REINFORCE, on the other hand, mitigates some computational complexities such as high memory overhead and sensitive hyper-parameter tuning, but has suboptimal performance due to high variance and sample inefficiency. While the variance of the REINFORCE can be reduced by sampling multiple actions per input prompt and using a baseline correction term, it still suffers from sample inefficiency. To address these challenges, we systematically analyze the efficiency effectiveness trade-off between REINFORCE and PPO, and propose leave-one-out PPO (LOOP), a novel RL for diffusion fine-tuning method. LOOP combines variance reduction techniques from REINFORCE, such as sampling multiple actions per input prompt and a baseline correction term, with the robustness and sample efficiency of PPO via clipping and importance sampling. Our results demonstrate that LOOP effectively improves diffusion models on various black-box objectives, and achieves a better balance between computational efficiency and performance.
+</div>
+
+</td>
+</tr>
+
+
+</table>
+
+
 ## <i class="fa fa-chevron-right"></i> Selected Publications
 
 <a href="https://scholar.google.com/citations?user=CX8zqPoAAAAJ&hl" class="btn btn-primary" style="padding: 0.3em;">
@@ -111,6 +145,25 @@ I am a Reasearch Scientist at Meta AI working on Human-Centric Multimodal Machin
 </a>
 
 <table class="table table-hover">
+
+<tr>
+<td class="col-md-3"><a href='https://openaccess.thecvf.com/content/WACV2025/papers/Sun_Multi-Modal_Large_Language_Models_are_Effective_Vision_Learners_WACV_2025_paper.pdf' target='_blank'><img src="pics/publications/sun2025multi.png"/></a> </td>
+<td>
+    <strong>15. Multi-Modal Large Language Models are Effective Vision Learners</strong><br>
+    L. Sun, <strong>C. Ahuja</strong>, P. Chen, M. D\’Zmura, K. Batmanghelich, and P. Bontrager<br>
+    WACV 2025<br>
+    
+     
+<a href='javascript: none'
+    onclick='$("#abs_sun2025multi").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://openaccess.thecvf.com/content/WACV2025/papers/Sun_Multi-Modal_Large_Language_Models_are_Effective_Vision_Learners_WACV_2025_paper.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
+    
+<div id="abs_sun2025multi" style="text-align: justify; display: none" markdown="1">
+Large language models (LLMs), pre-trained on vast amounts of text, have shown remarkable abilities in understanding general knowledge and commonsense. Therefore, it’s desirable to leverage pre-trained LLM to help solve computer vision tasks. Previous works on multi-modal LLM mainly focus on the generation capability. In this work, we propose LLM-augmented visual representation learning (LMVR). Our approach involves initially using a vision encoder to extract features, which are then projected into the word embedding space of the LLM. The LLM then generates responses based on the visual representation and a text prompt. Finally, we aggregate sequence-level features from the hidden layers of the LLM to obtain image-level representations. We conduct extensive experiments on multiple datasets, and have the following findings: (a) LMVR outperforms traditional vision encoder on various downstream tasks, and effectively learns the correspondence between words and image regions; (b) LMVR improves the generalizability compared to using a vision encoder alone, as evidenced by its superior resistance to domain shift; (c) LMVR improves the robustness of models to corrupted and perturbed visual data. Our findings demonstrate LLM-augmented visual representation learning is effective as it learns object-level concepts and commonsense knowledge.
+</div>
+
+</td>
+</tr>
+
 
 <tr>
 <td class="col-md-3"><a href='https://bit.ly/cdiffgan' target='_blank'><img src="pics/publications/ahuja2023continual.png"/></a> </td>
