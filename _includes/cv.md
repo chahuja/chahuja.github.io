@@ -1,4 +1,4 @@
-I am a Reasearch Scientist at Meta AI working on Human-Centric Multimodal Machine Learning and Generative Modeling. Prior to that I completed my PhD at the Language Technologies Institute at <b>Carnegie Mellon University</b> where I was advised by [Dr. Louis-Philippe Morency (LP)](https://www.cs.cmu.edu/~morency/) in the [Multicomp Lab](http://multicomp.cs.cmu.edu/). My research focused on endowing agents and remote avatars with <b>Social Intelligence</b> by means of <b>Multimodal Learning</b>. One of the use-cases where we extensively apply these technologies is <b>Computer Animation</b>. These directions have the potential of making a meaningful impact on remote communication, collaborations, education and mental health for human-human and human-robot interaction, especially now when a lot of social and work spaces are gradually moving online. <br> <br> In the past, I have also interned at Facebook Reality Labs on generation of nonverbal behaviours for a communicating avatar. As an undergraduate researcher at <b>Indian Institute of Technology(IIT), Kanpur</b>, I worked with [Dr. Rajesh Hegde](http://home.iitk.ac.in/~rhegde/) on <b>Spatial Audio</b> and <b>Speaker Diarization</b>, and [Dr. Vinay Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) on <b>Video Summarization</b>
+I am an AI Reasearch Scientist at Meta AI working on Human-Centric Multimodal Machine Learning and Generative Modeling. Prior to that I completed my PhD at the Language Technologies Institute at <b>Carnegie Mellon University</b> where I was advised by [Dr. Louis-Philippe Morency (LP)](https://www.cs.cmu.edu/~morency/) in the [Multicomp Lab](http://multicomp.cs.cmu.edu/). My research focused on endowing agents and remote avatars with <b>Social Intelligence</b> by means of <b>Multimodal Learning</b>. One of the use-cases where we extensively apply these technologies is <b>Computer Animation</b>. These directions have the potential of making a meaningful impact on remote communication, collaborations, education and mental health for human-human and human-robot interaction, especially now when a lot of social and work spaces are gradually moving online. <br> <br> In the past, I have also interned at Facebook Reality Labs on generation of nonverbal behaviours for a communicating avatar. As an undergraduate researcher at <b>Indian Institute of Technology(IIT), Kanpur</b>, I worked with [Dr. Rajesh Hegde](http://home.iitk.ac.in/~rhegde/) on <b>Spatial Audio</b> and <b>Speaker Diarization</b>, and [Dr. Vinay Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) on <b>Video Summarization</b>
 
 
 ## <i class="fa fa-chevron-right"></i> News
@@ -17,7 +17,7 @@ I am a Reasearch Scientist at Meta AI working on Human-Centric Multimodal Machin
 </tr>
 <tr>
   <td class='col-md-3'>May 2022</td>
-  <td>Excited to join Meta AI as a Research Scientist</td>
+  <td>Excited to join Meta AI as an AI Research Scientist</td>
 </tr>
 <tr>
   <td class='col-md-3'>April 2022</td>
