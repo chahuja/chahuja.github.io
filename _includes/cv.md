@@ -5,11 +5,11 @@ I am a Reasearch Scientist at Meta AI working on Human-Centric Multimodal Machin
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>March 2025</td>
-  <td>Preprint on a Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning out on arXiv</td>
+  <td>Preprint on a Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning out on arXiv. <a href="https://arxiv.org/pdf/2503.00897v1" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
 </tr>
 <tr>
-  <td class='col-md-3'>March 2025</td>
-  <td>Paper on Multi-Modal Large Language Models as Effective Vision Learners accepted at WACV 2025</td>
+  <td class='col-md-3'>February 2025</td>
+  <td>Paper on Multi-Modal Large Language Models as Effective Vision Learners accepted at WACV 2025. <a href="https://openaccess.thecvf.com/content/WACV2025/papers/Sun_Multi-Modal_Large_Language_Models_are_Effective_Vision_Learners_WACV_2025_paper.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
 </tr>
 <tr>
   <td class='col-md-3'>Feb 2023</td>
