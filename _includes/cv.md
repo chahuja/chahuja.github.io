@@ -117,6 +117,25 @@ I am an AI Research Scientist at Meta AI working on Human-Centric Multimodal Mac
 <table class="table table-hover">
 
 <tr>
+<td class="col-md-3"><a href='' target='_blank'><img src="pics/publications/cui2025a.png"/></a> </td>
+<td>
+    <strong>2. Think Then Embed: Generative Context Improves Multimodal Embedding</strong><br>
+    X. Cui, J. Cheng, H. Chen, S. Shukla, A. Awasthi, X. Pan, <strong>C. Ahuja</strong>, S. Mishra, T. Tian, Q. Guo, S. Lim, A. Singh, and X. Fan<br>
+    Coming Soon 2025<br>
+    
+     
+<a href='javascript: none'
+    onclick='$("#abs_cui2025a").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
+    
+<div id="abs_cui2025a" style="text-align: justify; display: none" markdown="1">
+There is a growing interest in Universal Multimodal Embeddings (UME), where models are required to generate task-specific representations. While recent studies show that Multimodal Large Language Models (MLLMs) perform well on such tasks, they treat MLLMs solely as encoders, overlooking their generative capacity. However, such an encoding paradigm becomes less effective as instructions become more complex and require compositional reasoning. Inspired by the proven effectiveness of chain-of-thought reasoning, we propose a general Think-Then-Embed (TTE) framework for UME, composed of a reasoner and an embedder. The reasoner MLLM first generates reasoning traces that explain complex queries, followed by an embedder that produces representations conditioned on both the original query and the intermediate reasoning. This explicit reasoning step enables more nuanced understanding of complex multimodal instructions. Our contributions are threefold. First, by leveraging a powerful MLLM reasoner, we achieve state-of-the-art performance on the MMEB-V2 benchmark, surpassing proprietary models trained on massive in-house datasets. Second, to reduce the dependency on large MLLM reasoners, we finetune a smaller MLLM reasoner using high-quality embedding-centric reasoning traces, achieving the best performance among open-source models with a 7% absolute gain over recently proposed models. Third, we investigate strategies for integrating the reasoner and embedder into a unified model for improved efficiency without sacrificing performance.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
 <td class="col-md-3"><a href='https://arxiv.org/pdf/2503.00897v1' target='_blank'><img src="pics/publications/gupta2025a.png"/></a> </td>
 <td>
     <strong>1. A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning</strong><br>
