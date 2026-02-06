@@ -4,6 +4,10 @@ I am an AI Research Scientist at Meta AI working on Human-Centric Multimodal Mac
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>Feb 2026</td>
+  <td>Paper <b>Think Then Embed: Generative Context Improves Multimodal Embedding</b> accepted at ICLR 2026. <a href="https://arxiv.org/abs/2510.05014" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
+</tr>
+<tr>
   <td class='col-md-3'>March 2025</td>
   <td>Preprint <b>Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning</b> out on arXiv. <a href="https://arxiv.org/pdf/2503.00897v1" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
 </tr>
@@ -19,15 +23,15 @@ I am an AI Research Scientist at Meta AI working on Human-Centric Multimodal Mac
   <td class='col-md-3'>May 2022</td>
   <td>Excited to join Meta AI as an AI Research Scientist</td>
 </tr>
-<tr>
-  <td class='col-md-3'>April 2022</td>
-  <td>Defended my PhD dissertation on <b>Communication Beyond Words: Grounding Visual Body Motion with Language</b> <a href="https://chahuja.com/files/chaitanya_ahuja_phd_thesis.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
-</tr>
 </table>
 
 <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo" onclick="change()" id="more">More</button>
 <div id="demo" class="collapse">
 <table class="table table-hover">
+      <tr>
+	    <td class='col-md-3'>April 2022</td>
+	    <td>Defended my PhD dissertation on <b>Communication Beyond Words: Grounding Visual Body Motion with Language</b> <a href="https://chahuja.com/files/chaitanya_ahuja_phd_thesis.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
+	  </tr>	  
       <tr>
 	    <td class='col-md-3'>April 2022</td>
 	    <td>Humbled to be a Highlighted Reviewer at ICLR 2022</td>
