@@ -5,11 +5,15 @@ I am an AI Research Scientist at Meta AI working on Human-Centric Multimodal Mac
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>Feb 2026</td>
-  <td>Paper <b>Think Then Embed: Generative Context Improves Multimodal Embedding</b> accepted at ICLR 2026. <a href="https://arxiv.org/abs/2510.05014" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
+  <td>Paper <b>A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning</b> accepted at TMLR 2026. <a href="https://arxiv.org/pdf/2503.00897v1" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
 </tr>
 <tr>
-  <td class='col-md-3'>March 2025</td>
-  <td>Preprint <b>Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning</b> out on arXiv. <a href="https://arxiv.org/pdf/2503.00897v1" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
+  <td class='col-md-3'>Feb 2026</td>
+  <td>Preprint <b>Xray-Visual Models: Scaling Vision models on Industry Scale Data</b> now available on arXiv. <a href="https://arxiv.org/abs/2602.16918" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
+</tr>
+<tr>
+  <td class='col-md-3'>Feb 2026</td>
+  <td>Paper <b>Think Then Embed: Generative Context Improves Multimodal Embedding</b> accepted at ICLR 2026. <a href="https://arxiv.org/abs/2510.05014" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
 </tr>
 <tr>
   <td class='col-md-3'>February 2025</td>
@@ -19,15 +23,15 @@ I am an AI Research Scientist at Meta AI working on Human-Centric Multimodal Mac
   <td class='col-md-3'>Feb 2023</td>
   <td>Survey paper on Co-Speech Gestures accepted in the STAR track at Eurographics 2023. <a href="https://arxiv.org/abs/2301.05339" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
 </tr>
-<tr>
-  <td class='col-md-3'>May 2022</td>
-  <td>Excited to join Meta AI as an AI Research Scientist</td>
-</tr>
 </table>
 
 <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo" onclick="change()" id="more">More</button>
 <div id="demo" class="collapse">
 <table class="table table-hover">
+      <tr>
+	    <td class='col-md-3'>May 2022</td>
+	    <td>Excited to join Meta AI as an AI Research Scientist</td>
+	  </tr>	  
       <tr>
 	    <td class='col-md-3'>April 2022</td>
 	    <td>Defended my PhD dissertation on <b>Communication Beyond Words: Grounding Visual Body Motion with Language</b> <a href="https://chahuja.com/files/chaitanya_ahuja_phd_thesis.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
@@ -121,18 +125,18 @@ I am an AI Research Scientist at Meta AI working on Human-Centric Multimodal Mac
 <table class="table table-hover">
 
 <tr>
-<td class="col-md-3"><a href='https://arxiv.org/pdf/2503.00897v1' target='_blank'><img src="pics/publications/gupta2025a.png"/></a> </td>
+<td class="col-md-3"><a href='https://arxiv.org/abs/2602.16918' target='_blank'><img src="pics/publications/mishra2026.png"/></a> </td>
 <td>
-    <strong>1. A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning</strong><br>
-    S. Gupta, <strong>C. Ahuja</strong>, T. Lin, S. Roy, H. Oosterhuis, M. de Rijke, and S. Shukla<br>
-    Preprint 2025<br>
+    <strong>1. Xray-Visual Models: Scaling Vision models on Industry Scale Data</strong><br>
+    S. Mishra, T. Lin, L. Wang, H. Xu, Y. Liu, M. Hsu, <strong>C. Ahuja</strong>, H. Yuan, J. Cheng, H. Chen, and e. al.<br>
+    Preprint 2026<br>
     
      
 <a href='javascript: none'
-    onclick='$("#abs_gupta2025a").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://arxiv.org/pdf/2503.00897v1' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
+    onclick='$("#abs_mishra2026").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://arxiv.org/abs/2602.16918' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
     
-<div id="abs_gupta2025a" style="text-align: justify; display: none" markdown="1">
-Reinforcement learning (RL) based fine-tuning has emerged as a powerful approach for aligning diffusion models with black-box objectives. Proximal policy optimization (PPO) is the most popular choice of method for policy optimization. While effective in terms of performance, PPO is highly sensitive to hyper-parameters and involves substantial computational overhead. REINFORCE, on the other hand, mitigates some computational complexities such as high memory overhead and sensitive hyper-parameter tuning, but has suboptimal performance due to high variance and sample inefficiency. While the variance of the REINFORCE can be reduced by sampling multiple actions per input prompt and using a baseline correction term, it still suffers from sample inefficiency. To address these challenges, we systematically analyze the efficiency effectiveness trade-off between REINFORCE and PPO, and propose leave-one-out PPO (LOOP), a novel RL for diffusion fine-tuning method. LOOP combines variance reduction techniques from REINFORCE, such as sampling multiple actions per input prompt and a baseline correction term, with the robustness and sample efficiency of PPO via clipping and importance sampling. Our results demonstrate that LOOP effectively improves diffusion models on various black-box objectives, and achieves a better balance between computational efficiency and performance.
+<div id="abs_mishra2026" style="text-align: justify; display: none" markdown="1">
+We present Xray-Visual, a unified vision model architecture for large-scale image and video understanding trained on industry-scale social media data. Our model leverages over 15 billion curated image-text pairs and 10 billion video-hashtag pairs from Facebook and Instagram, employing robust data curation pipelines that incorporate balancing and noise suppression strategies to maximize semantic diversity while minimizing label noise. We introduce a three-stage training pipeline that combines self-supervised MAE, semi-supervised hashtag classification, and CLIP-style contrastive learning to jointly optimize image and video modalities. Our architecture builds on a Vision Transformer backbone enhanced with efficient token reorganization (EViT) for improved computational efficiency. Extensive experiments demonstrate that Xray-Visual achieves state-of-the-art performance across diverse benchmarks, including ImageNet for image classification, Kinetics and HMDB51 for video understanding, and MSCOCO for cross-modal retrieval. The model exhibits strong robustness to domain shift and adversarial perturbations. We further demonstrate that integrating large language models as text encoders (LLM2CLIP) significantly enhances retrieval performance and generalization capabilities, particularly in real-world environments. Xray-Visual establishes new benchmarks for scalable, multimodal vision models, while maintaining superior accuracy and computational efficiency.
 </div>
 
 </td>
@@ -149,6 +153,25 @@ Reinforcement learning (RL) based fine-tuning has emerged as a powerful approach
 </a>
 
 <table class="table table-hover">
+
+<tr>
+<td class="col-md-3"><a href='https://arxiv.org/pdf/2503.00897v1' target='_blank'><img src="pics/publications/gupta2025a.png"/></a> </td>
+<td>
+    <strong>17. A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning</strong><br>
+    S. Gupta, <strong>C. Ahuja</strong>, T. Lin, S. Roy, H. Oosterhuis, M. de Rijke, and S. Shukla<br>
+    TMLR 2026<br>
+    
+     
+<a href='javascript: none'
+    onclick='$("#abs_gupta2025a").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://arxiv.org/pdf/2503.00897v1' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
+    
+<div id="abs_gupta2025a" style="text-align: justify; display: none" markdown="1">
+Reinforcement learning (RL) based fine-tuning has emerged as a powerful approach for aligning diffusion models with black-box objectives. Proximal policy optimization (PPO) is the most popular choice of method for policy optimization. While effective in terms of performance, PPO is highly sensitive to hyper-parameters and involves substantial computational overhead. REINFORCE, on the other hand, mitigates some computational complexities such as high memory overhead and sensitive hyper-parameter tuning, but has suboptimal performance due to high variance and sample inefficiency. While the variance of the REINFORCE can be reduced by sampling multiple actions per input prompt and using a baseline correction term, it still suffers from sample inefficiency. To address these challenges, we systematically analyze the efficiency effectiveness trade-off between REINFORCE and PPO, and propose leave-one-out PPO (LOOP), a novel RL for diffusion fine-tuning method. LOOP combines variance reduction techniques from REINFORCE, such as sampling multiple actions per input prompt and a baseline correction term, with the robustness and sample efficiency of PPO via clipping and importance sampling. Our results demonstrate that LOOP effectively improves diffusion models on various black-box objectives, and achieves a better balance between computational efficiency and performance.
+</div>
+
+</td>
+</tr>
+
 
 <tr>
 <td class="col-md-3"><a href='https://arxiv.org/abs/2510.05014' target='_blank'><img src="pics/publications/cui2025a.png"/></a> </td>
