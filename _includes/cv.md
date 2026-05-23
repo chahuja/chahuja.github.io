@@ -4,6 +4,10 @@ I am an AI Research Scientist at Meta AI working on Human-Centric Multimodal Mac
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
 <tr>
+  <td class='col-md-3'>May 2026</td>
+  <td>Preprint <b>TTE-Flash: Accelerating Reasoning-based Multimodal Representations via Think-Then-Embed Tokens</b> now available on arXiv. <a href="https://arxiv.org/abs/2605.16638" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
+</tr>
+<tr>
   <td class='col-md-3'>Feb 2026</td>
   <td>Paper <b>A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning</b> accepted at TMLR 2026. <a href="https://arxiv.org/pdf/2503.00897v1" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
 </tr>
@@ -19,15 +23,15 @@ I am an AI Research Scientist at Meta AI working on Human-Centric Multimodal Mac
   <td class='col-md-3'>February 2025</td>
   <td>Paper <b>Multi-Modal Large Language Models as Effective Vision Learners</b> accepted at WACV 2025. <a href="https://openaccess.thecvf.com/content/WACV2025/papers/Sun_Multi-Modal_Large_Language_Models_are_Effective_Vision_Learners_WACV_2025_paper.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
 </tr>
-<tr>
-  <td class='col-md-3'>Feb 2023</td>
-  <td>Survey paper on Co-Speech Gestures accepted in the STAR track at Eurographics 2023. <a href="https://arxiv.org/abs/2301.05339" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
-</tr>
 </table>
 
 <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo" onclick="change()" id="more">More</button>
 <div id="demo" class="collapse">
 <table class="table table-hover">
+      <tr>
+	    <td class='col-md-3'>Feb 2023</td>
+	    <td>Survey paper on Co-Speech Gestures accepted in the STAR track at Eurographics 2023. <a href="https://arxiv.org/abs/2301.05339" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
+	  </tr>	  
       <tr>
 	    <td class='col-md-3'>May 2022</td>
 	    <td>Excited to join Meta AI as an AI Research Scientist</td>
@@ -125,6 +129,25 @@ I am an AI Research Scientist at Meta AI working on Human-Centric Multimodal Mac
 <table class="table table-hover">
 
 <tr>
+<td class="col-md-3"><a href='https://arxiv.org/abs/2605.16638' target='_blank'><img src="pics/publications/cheng2026.png"/></a> </td>
+<td>
+    <strong>2. TTE-Flash: Accelerating Reasoning-based Multimodal Representations via Think-Then-Embed Tokens</strong><br>
+    J. Cheng, X. Wu, J. Zhang, W. Bao, <strong>C. Ahuja</strong>, S. Mishra, H. Yu, Y. Gao, F. Xia, Q. Guo, and e. al.<br>
+    Preprint 2026<br>
+    
+     
+<a href='javascript: none'
+    onclick='$("#abs_cheng2026").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://arxiv.org/abs/2605.16638' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
+    
+<div id="abs_cheng2026" style="text-align: justify; display: none" markdown="1">
+We propose replacing explicit Chain-of-Thought reasoning with latent think tokens in multimodal embedding systems. These tokens function as latent variables that can generate explicit reasoning traces. The method trains think tokens using generation loss and embedding tokens using contrastive loss, achieving high-performance, reasoning-aware representations at a constant inference cost. Our TTE-Flash-2B model outperforms explicit-CoT alternatives on the MMEB-v2 benchmark while producing interpretable latent think tokens. Testing across 15 video datasets demonstrates scaling improvements and supports adaptive token allocation strategies based on task requirements.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
 <td class="col-md-3"><a href='https://arxiv.org/abs/2602.16918' target='_blank'><img src="pics/publications/mishra2026.png"/></a> </td>
 <td>
     <strong>1. Xray-Visual Models: Scaling Vision models on Industry Scale Data</strong><br>
@@ -196,7 +219,7 @@ There is a growing interest in Universal Multimodal Embeddings (UME), where mode
 <td class="col-md-3"><a href='https://openaccess.thecvf.com/content/WACV2025/papers/Sun_Multi-Modal_Large_Language_Models_are_Effective_Vision_Learners_WACV_2025_paper.pdf' target='_blank'><img src="pics/publications/sun2025multi.png"/></a> </td>
 <td>
     <strong>15. Multi-Modal Large Language Models are Effective Vision Learners</strong><br>
-    L. Sun, <strong>C. Ahuja</strong>, P. Chen, M. D\’Zmura, K. Batmanghelich, and P. Bontrager<br>
+    L. Sun, <strong>C. Ahuja</strong>, P. Chen, M. D\'Zmura, K. Batmanghelich, and P. Bontrager<br>
     WACV 2025<br>
     
      
@@ -204,7 +227,7 @@ There is a growing interest in Universal Multimodal Embeddings (UME), where mode
     onclick='$("#abs_sun2025multi").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://openaccess.thecvf.com/content/WACV2025/papers/Sun_Multi-Modal_Large_Language_Models_are_Effective_Vision_Learners_WACV_2025_paper.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
     
 <div id="abs_sun2025multi" style="text-align: justify; display: none" markdown="1">
-Large language models (LLMs), pre-trained on vast amounts of text, have shown remarkable abilities in understanding general knowledge and commonsense. Therefore, it’s desirable to leverage pre-trained LLM to help solve computer vision tasks. Previous works on multi-modal LLM mainly focus on the generation capability. In this work, we propose LLM-augmented visual representation learning (LMVR). Our approach involves initially using a vision encoder to extract features, which are then projected into the word embedding space of the LLM. The LLM then generates responses based on the visual representation and a text prompt. Finally, we aggregate sequence-level features from the hidden layers of the LLM to obtain image-level representations. We conduct extensive experiments on multiple datasets, and have the following findings: (a) LMVR outperforms traditional vision encoder on various downstream tasks, and effectively learns the correspondence between words and image regions; (b) LMVR improves the generalizability compared to using a vision encoder alone, as evidenced by its superior resistance to domain shift; (c) LMVR improves the robustness of models to corrupted and perturbed visual data. Our findings demonstrate LLM-augmented visual representation learning is effective as it learns object-level concepts and commonsense knowledge.
+Large language models (LLMs), pre-trained on vast amounts of text, have shown remarkable abilities in understanding general knowledge and commonsense. Therefore, it's desirable to leverage pre-trained LLM to help solve computer vision tasks. Previous works on multi-modal LLM mainly focus on the generation capability. In this work, we propose LLM-augmented visual representation learning (LMVR). Our approach involves initially using a vision encoder to extract features, which are then projected into the word embedding space of the LLM. The LLM then generates responses based on the visual representation and a text prompt. Finally, we aggregate sequence-level features from the hidden layers of the LLM to obtain image-level representations. We conduct extensive experiments on multiple datasets, and have the following findings: (a) LMVR outperforms traditional vision encoder on various downstream tasks, and effectively learns the correspondence between words and image regions; (b) LMVR improves the generalizability compared to using a vision encoder alone, as evidenced by its superior resistance to domain shift; (c) LMVR improves the robustness of models to corrupted and perturbed visual data. Our findings demonstrate LLM-augmented visual representation learning is effective as it learns object-level concepts and commonsense knowledge.
 </div>
 
 </td>
@@ -242,7 +265,7 @@ Co-speech gestures are a key channel of human communication, making them importa
     onclick='$("#abs_lee2022multimodal").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Lecture_Presentations_Multimodal_Dataset_Towards_Understanding_Multimodality_in_Educational_Videos_ICCV_2023_paper.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='https://github.com/dondongwon/LPMDataset' target='_blank'><button type='button' class='btn btn-info'>code</button></a> <br>
     
 <div id="abs_lee2022multimodal" style="text-align: justify; display: none" markdown="1">
-Many educational videos use slide presentations, a sequence of visual pages that contain text and figures accompanied by spoken language, which are constructed and presented carefully in order to optimally transfer knowledge to students. Previous studies in multimedia and psychology attribute the effectiveness of lecture presentations to their multimodal nature. As a step toward developing vision-language models to aid in student learning as intelligent teacher assistants, we introduce the Lecture Presentations Multimodal (LPM) Dataset as a large-scale benchmark testing the capabilities of vision-and-language models in multimodal understanding of educational videos. Our dataset contains aligned slides and spoken language, for 180+ hours of video and 9000+ slides, with 10 lecturers from various subjects (e.g., computer science, dentistry, biology). We introduce three research tasks, (1) figure-totext retrieval, (2) text-to-figure retrieval, and (3) generation of slide explanations, which are grounded in multimedia learning and psychology principles to test a vision-language model’s understanding of multimodal content. We provide manual annotations to help implement these tasks and establish baselines on them. Comparing baselines and human student performances, we find that state-of-the-art vision-language models (zero-shot and fine-tuned) struggle in (1) weak crossmodal alignment between slides and spoken text, (2) learning novel visual mediums, (3) technical language, and (4) long-range sequences. We introduce PolyViLT, a novel multimodal transformer trained with a multi-instance learning loss that is more effective than current approaches for retrieval. We conclude by shedding light on the challenges and opportunities in multimodal understanding of educational presentation videos.
+Many educational videos use slide presentations, a sequence of visual pages that contain text and figures accompanied by spoken language, which are constructed and presented carefully in order to optimally transfer knowledge to students. Previous studies in multimedia and psychology attribute the effectiveness of lecture presentations to their multimodal nature. As a step toward developing vision-language models to aid in student learning as intelligent teacher assistants, we introduce the Lecture Presentations Multimodal (LPM) Dataset as a large-scale benchmark testing the capabilities of vision-and-language models in multimodal understanding of educational videos. Our dataset contains aligned slides and spoken language, for 180+ hours of video and 9000+ slides, with 10 lecturers from various subjects (e.g., computer science, dentistry, biology). We introduce three research tasks, (1) figure-totext retrieval, (2) text-to-figure retrieval, and (3) generation of slide explanations, which are grounded in multimedia learning and psychology principles to test a vision-language model's understanding of multimodal content. We provide manual annotations to help implement these tasks and establish baselines on them. Comparing baselines and human student performances, we find that state-of-the-art vision-language models (zero-shot and fine-tuned) struggle in (1) weak crossmodal alignment between slides and spoken text, (2) learning novel visual mediums, (3) technical language, and (4) long-range sequences. We introduce PolyViLT, a novel multimodal transformer trained with a multi-instance learning loss that is more effective than current approaches for retrieval. We conclude by shedding light on the challenges and opportunities in multimodal understanding of educational presentation videos.
 </div>
 
 </td>
@@ -299,7 +322,7 @@ The central theme of this thesis is to understand the two-way relationship (a.k.
     onclick='$("#abs_ahuja2021low").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://openaccess.thecvf.com/content/CVPR2022/papers/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.pdf' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a>  <a href='https://chahuja.com/diffgan' target='_blank'><button type='button' class='btn btn-info'>code</button></a> <br>
     
 <div id="abs_ahuja2021low" style="text-align: justify; display: none" markdown="1">
-Personalizing an avatar for co-speech gesture generation from spoken language requires learning the idiosyncrasies of a person’s gesture style from a small amount of data. Previous methods in gesture generation require large amounts of data for each speaker, which is often infeasible. We propose an approach, named DiffGAN, that efficiently personalizes co-speech gesture generation models of a high-resource source speaker to target speaker with just 2 minutes of target training data. A unique characteristic of DiffGAN is its ability to account for the crossmodal grounding shift, while also addressing the distribution shift in the output domain. We substantiate the effectiveness of our approach a large scale publicly available dataset through quantitative, qualitative and user studies, which show that our proposed methodology significantly outperforms prior approaches for low-resource adaptation of gesture generation. Code and videos can be found at https://chahuja.com/diffgan.
+Personalizing an avatar for co-speech gesture generation from spoken language requires learning the idiosyncrasies of a person's gesture style from a small amount of data. Previous methods in gesture generation require large amounts of data for each speaker, which is often infeasible. We propose an approach, named DiffGAN, that efficiently personalizes co-speech gesture generation models of a high-resource source speaker to target speaker with just 2 minutes of target training data. A unique characteristic of DiffGAN is its ability to account for the crossmodal grounding shift, while also addressing the distribution shift in the output domain. We substantiate the effectiveness of our approach a large scale publicly available dataset through quantitative, qualitative and user studies, which show that our proposed methodology significantly outperforms prior approaches for low-resource adaptation of gesture generation. Code and videos can be found at https://chahuja.com/diffgan.
 </div>
 
 </td>
@@ -337,7 +360,7 @@ We study relationships between spoken language and co-speech gestures in context
     onclick='$("#abs_ishii2020impact").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://dl.acm.org/doi/10.1145/3383652.3423908' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
     
 <div id="abs_ishii2020impact" style="text-align: justify; display: none" markdown="1">
-To realize natural-looking virtual agents, one key technical challenge is to automatically generate nonverbal behaviors from spoken language. Since nonverbal behavior varies depending on personality, it is important to generate these nonverbal behaviors to match the expected personality of a virtual agent. In this work, we study how personality traits relate to the process of generating individual nonverbal behaviors from the whole body, including the head, eye gaze, arms, and posture. To study this, we first created a dialogue corpus including transcripts, a broad range of labelled nonverbal behaviors, and the Big Five personality scores of participants in dyad interactions. We constructed models that can predict each nonverbal behavior label given as an input language representation from the participants’ spoken sentences. Our experimental results show that personality can help improve the prediction of nonverbal behaviors.
+To realize natural-looking virtual agents, one key technical challenge is to automatically generate nonverbal behaviors from spoken language. Since nonverbal behavior varies depending on personality, it is important to generate these nonverbal behaviors to match the expected personality of a virtual agent. In this work, we study how personality traits relate to the process of generating individual nonverbal behaviors from the whole body, including the head, eye gaze, arms, and posture. To study this, we first created a dialogue corpus including transcripts, a broad range of labelled nonverbal behaviors, and the Big Five personality scores of participants in dyad interactions. We constructed models that can predict each nonverbal behavior label given as an input language representation from the participants' spoken sentences. Our experimental results show that personality can help improve the prediction of nonverbal behaviors.
 </div>
 
 </td>
@@ -432,7 +455,7 @@ Recurrent neural networks have shown remarkable success in modeling sequences. H
     onclick='$("#abs_baltruvsaitis2017multimodal").toggle()'><button type='button' class='btn btn-danger'>abs</button></a> <a href='https://arxiv.org/abs/1705.09406' target='_blank'><button type='button' class='btn btn-primary'>pdf</button></a> <br>
     
 <div id="abs_baltruvsaitis2017multimodal" style="text-align: justify; display: none" markdown="1">
-—Our experience of the world is multimodal - we see objects, hear sounds, feel texture, smell odors, and taste flavors. Modality refers to the way in which something happens or is experienced and a research problem is characterized as multimodal when it includes multiple such modalities. In order for Artificial Intelligence to make progress in understanding the world around us, it needs to be able to interpret such multimodal signals together. Multimodal machine learning aims to build models that can process and relate information from multiple modalities. It is a vibrant multi-disciplinary field of increasing importance and with extraordinary potential. Instead of focusing on specific multimodal applications, this paper surveys the recent advances in multimodal machine learning itself and presents them in a common taxonomy. We go beyond the typical early and late fusion categorization and identify broader challenges that are faced by multimodal machine learning, namely: representation, translation, alignment, fusion, and co-learning. This new taxonomy will enable researchers to better understand the state of the field and identify directions for future research.
+-Our experience of the world is multimodal - we see objects, hear sounds, feel texture, smell odors, and taste flavors. Modality refers to the way in which something happens or is experienced and a research problem is characterized as multimodal when it includes multiple such modalities. In order for Artificial Intelligence to make progress in understanding the world around us, it needs to be able to interpret such multimodal signals together. Multimodal machine learning aims to build models that can process and relate information from multiple modalities. It is a vibrant multi-disciplinary field of increasing importance and with extraordinary potential. Instead of focusing on specific multimodal applications, this paper surveys the recent advances in multimodal machine learning itself and presents them in a common taxonomy. We go beyond the typical early and late fusion categorization and identify broader challenges that are faced by multimodal machine learning, namely: representation, translation, alignment, fusion, and co-learning. This new taxonomy will enable researchers to better understand the state of the field and identify directions for future research.
 </div>
 
 </td>
@@ -578,7 +601,7 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
 <table class="table table-hover">
 <tr>
   <td>
-        <a href="https://www.linkedin.com/in/don-dong-won-lee-ab964b172/">Dong Won Lee</a> (CMU BS → CMU MS in Machine Learning): Self-supervised generative models.
+        <a href="https://www.linkedin.com/in/don-dong-won-lee-ab964b172/">Dong Won Lee</a> (CMU BS -> CMU MS in Machine Learning): Self-supervised generative models.
   </td>
   <td class='col-md-1' style='text-align:right;'></td>
 </tr>
@@ -602,19 +625,19 @@ In this paper, a fast method for the extraction of pinna spectral notches (PSN) 
 </tr>
 <tr>
   <td>
-        <a href="https://www.linkedin.com/in/sharathrao1/">Sharath Rao</a> (CMU MS → PlayStation) Back-channel prediction in dyadic conversations.
+        <a href="https://www.linkedin.com/in/sharathrao1/">Sharath Rao</a> (CMU MS -> PlayStation) Back-channel prediction in dyadic conversations.
   </td>
   <td class='col-md-1' style='text-align:right;'></td>
 </tr>
 <tr>
   <td>
-        Qingtao Hu (CMU MS → Amazon): Unsupervised disentanglement of style and content in images.
+        Qingtao Hu (CMU MS -> Amazon): Unsupervised disentanglement of style and content in images.
   </td>
   <td class='col-md-1' style='text-align:right;'></td>
 </tr>
 <tr>
   <td>
-        Anirudha Rayasam (CMU MS → Google): Language grounded pose forecasting.
+        Anirudha Rayasam (CMU MS -> Google): Language grounded pose forecasting.
   </td>
   <td class='col-md-1' style='text-align:right;'></td>
 </tr>
