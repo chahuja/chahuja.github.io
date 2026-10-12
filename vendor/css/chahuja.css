@@ -64,3 +64,34 @@ div.video-hover:hover{
 .video.video-hover {
   margin-top: 3em;
 }
+
+/* Header: photo with title, CV and links vertically centered to its right */
+.idxTop {
+    display: flex;
+    align-items: center;
+    gap: 4em;
+    margin-top: 1em;
+}
+
+.idxPhoto img {
+    width: 220px;
+    height: 270px;
+    object-fit: cover;
+    object-position: center 30%;
+    border-radius: 50%;
+    border: none;
+    padding: 0;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+@media (max-width: 767px) {
+    .idxTop {
+        flex-direction: column;
+        gap: 1em;
+    }
+    .idxTop .idxIcons {
+        width: auto;
+        margin: 0.5em 0 0;
+        padding: 0;
+    }
+}

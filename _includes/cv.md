@@ -1,8 +1,12 @@
-I am a Member of Technical Staff (MTS) at DoorDash AI. Previously, I was an AI Research Scientist at Meta AI working on Human-Centric Multimodal Machine Learning (pre-training and post-training), Generative Modeling and Generative Recommendation Systems. Prior to that I completed my PhD at the Language Technologies Institute at <b>Carnegie Mellon University</b> where I was advised by [Dr. Louis-Philippe Morency (LP)](https://www.cs.cmu.edu/~morency/) in the [Multicomp Lab](http://multicomp.cs.cmu.edu/). My research focused on endowing agents and remote avatars with <b>Social Intelligence</b> by means of <b>Multimodal Learning</b>. One of the use-cases where we extensively apply these technologies is <b>Computer Animation</b>. These directions have the potential of making a meaningful impact on remote communication, collaborations, education and mental health for human-human and human-robot interaction, especially now when a lot of social and work spaces are gradually moving online. <br> <br> In the past, I have also interned at Facebook Reality Labs on generation of nonverbal behaviours for a communicating avatar. As an undergraduate researcher at <b>Indian Institute of Technology(IIT), Kanpur</b>, I worked with [Dr. Rajesh Hegde](http://home.iitk.ac.in/~rhegde/) on <b>Spatial Audio</b> and <b>Speaker Diarization</b>, and [Dr. Vinay Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) on <b>Video Summarization</b>
+I am a Member of Technical Staff at DoorDash AI working on (multimodal) post-training. <br> <br> Previously, I was an AI Research Scientist at Meta AI working on Human-Centric Multimodal Machine Learning (pre-training and post-training), Generative Modeling and Generative Recommendation Systems. Prior to that I completed my PhD at the Language Technologies Institute at <b>Carnegie Mellon University</b> where I was advised by [Dr. Louis-Philippe Morency (LP)](https://www.cs.cmu.edu/~morency/) in the [Multicomp Lab](http://multicomp.cs.cmu.edu/). My research focused on endowing agents and remote avatars with <b>Social Intelligence</b> by means of <b>Multimodal Learning</b>. One of the use-cases where we extensively apply these technologies is <b>Computer Animation</b>. These directions have the potential of making a meaningful impact on remote communication, collaborations, education and mental health for human-human and human-robot interaction, especially now when a lot of social and work spaces are gradually moving online. <br> <br> In the past, I have also interned at Facebook Reality Labs on generation of nonverbal behaviours for a communicating avatar. As an undergraduate researcher at <b>Indian Institute of Technology(IIT), Kanpur</b>, I worked with [Dr. Rajesh Hegde](http://home.iitk.ac.in/~rhegde/) on <b>Spatial Audio</b> and <b>Speaker Diarization</b>, and [Dr. Vinay Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) on <b>Video Summarization</b>
 
 
 ## <i class="fa fa-chevron-right"></i> News
 <table class="table table-hover">
+<tr>
+  <td class='col-md-3'>Sep 2026</td>
+  <td>Excited to join DoorDash AI as a Member of Technical Staff. <a href="https://x.com/chahuja/status/2095579951588356597" target="_blank"><button type="button" class="btn btn-default">post</button></a></td>
+</tr>
 <tr>
   <td class='col-md-3'>May 2026</td>
   <td>Preprint <b>TTE-Flash: Accelerating Reasoning-based Multimodal Representations via Think-Then-Embed Tokens</b> now available on arXiv. <a href="https://arxiv.org/abs/2605.16638" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
@@ -19,15 +23,15 @@ I am a Member of Technical Staff (MTS) at DoorDash AI. Previously, I was an AI R
   <td class='col-md-3'>Feb 2026</td>
   <td>Paper <b>Think Then Embed: Generative Context Improves Multimodal Embedding</b> accepted at ICLR 2026. <a href="https://arxiv.org/abs/2510.05014" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
 </tr>
-<tr>
-  <td class='col-md-3'>February 2025</td>
-  <td>Paper <b>Multi-Modal Large Language Models as Effective Vision Learners</b> accepted at WACV 2025. <a href="https://openaccess.thecvf.com/content/WACV2025/papers/Sun_Multi-Modal_Large_Language_Models_are_Effective_Vision_Learners_WACV_2025_paper.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
-</tr>
 </table>
 
 <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo" onclick="change()" id="more">More</button>
 <div id="demo" class="collapse">
 <table class="table table-hover">
+      <tr>
+	    <td class='col-md-3'>February 2025</td>
+	    <td>Paper <b>Multi-Modal Large Language Models as Effective Vision Learners</b> accepted at WACV 2025. <a href="https://openaccess.thecvf.com/content/WACV2025/papers/Sun_Multi-Modal_Large_Language_Models_are_Effective_Vision_Learners_WACV_2025_paper.pdf" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
+	  </tr>	  
       <tr>
 	    <td class='col-md-3'>Feb 2023</td>
 	    <td>Survey paper on Co-Speech Gestures accepted in the STAR track at Eurographics 2023. <a href="https://arxiv.org/abs/2301.05339" target="_blank"><button type="button" class="btn btn-primary">pdf</button></a></td>
