@@ -176,6 +176,24 @@ div.video-hover:hover{
     padding: 0 0.1em;
 }
 
+@media (max-width: 767px) {
+    .stickyBar-inner {
+        padding-top: 0.8em;
+        padding-bottom: 0.8em;
+    }
+    .stickyBar-home img {
+        width: 46px;
+        height: 46px;
+    }
+    .stickyBar-cv {
+        font-size: 1.15em;
+        padding: 0.25em 0.6em;
+    }
+    .stickyBar .idxIcons {
+        font-size: 1.6em !important;
+    }
+}
+
 @media (max-width: 480px) {
     .stickyBar-home span {
         display: none;
