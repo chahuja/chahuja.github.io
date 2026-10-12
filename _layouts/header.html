@@ -5,7 +5,7 @@ layout: default
 <i><q>Let every modalities' voice be heard, sight be seen and text be understood</q></i>
 <div class="idxTop">
     <div class="idxPhoto">
-        <img src="{{ site.featuredImage }}" alt="self.ie" width="250" height="250" style="box-shadow:0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);">
+        <img src="{{ site.featuredImage }}" alt="self.ie" width="210" height="250" style="box-shadow:0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);">
     </div>
     <div class="idxHdr">
 	<div style='font-size: 1.5em; color: #4582ec; font-weight: bold; padding-bottom: 0.6em; white-space: nowrap;'>MTS @<a href="https://x.com/AIatDoorDash" target="_blank" style='color: inherit;'>DoorDash AI</a></div>
@@ -38,6 +38,32 @@ layout: default
     </div>
 </div>
 <hr>
+
+<!-- Compact bar that slides in once the header above scrolls out of view -->
+<nav class="stickyBar" aria-label="Quick links" hidden>
+    <div class="stickyBar-inner measure-wide center ph3">
+        <a href="#" class="stickyBar-home" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;">
+            <img src="{{ site.featuredImage }}" alt="" width="36" height="36">
+            <span>{{ site.title }}</span>
+        </a>
+        <div class="stickyBar-links">
+            <a href="cv.pdf" target="_blank" class="cv-button stickyBar-cv"><i class="fa fa-download"></i> CV</a>
+        </div>
+    </div>
+</nav>
+<script>
+  (function () {
+    var bar = document.querySelector('.stickyBar');
+    var top = document.querySelector('.idxTop');
+    var icons = document.querySelector('.idxTop .idxIcons');
+    if (!bar || !top || !('IntersectionObserver' in window)) return;
+    if (icons) bar.querySelector('.stickyBar-links').appendChild(icons.cloneNode(true));
+    bar.hidden = false;
+    new IntersectionObserver(function (entries) {
+      bar.classList.toggle('is-visible', !entries[0].isIntersecting);
+    }).observe(top);
+  })();
+</script>
 
 {{ content }}
 
