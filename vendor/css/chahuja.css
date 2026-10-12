@@ -73,17 +73,6 @@ div.video-hover:hover{
     margin-top: 1em;
 }
 
-.idxPhoto img {
-    width: 220px;
-    height: 270px;
-    object-fit: cover;
-    object-position: center 30%;
-    border-radius: 50%;
-    border: none;
-    padding: 0;
-    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
-}
-
 @media (max-width: 767px) {
     .idxTop {
         flex-direction: column;

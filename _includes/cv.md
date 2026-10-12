@@ -5,7 +5,7 @@ I am a Member of Technical Staff at DoorDash AI working on (multimodal) post-tra
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>Sep 2026</td>
-  <td>Excited to join DoorDash AI as a Member of Technical Staff. <a href="https://x.com/chahuja/status/2095579951588356597" target="_blank"><button type="button" class="btn btn-default">post</button></a></td>
+  <td>Excited to join DoorDash AI as a Member of Technical Staff. <a href="https://x.com/chahuja/status/2095579951588356597" target="_blank"><button type="button" class="btn btn-primary">post</button></a></td>
 </tr>
 <tr>
   <td class='col-md-3'>May 2026</td>
